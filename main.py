@@ -11,7 +11,7 @@ if __name__ == "__main__":
     print('Files to be tested:')
     filesToRead = []
     for filename in os.listdir(args.folder):
-        if '.html' in filename:
+        if '.htm' in filename:
             print(filename)
             filesToRead.append(filename)
     print(len(filesToRead),' files to process')
@@ -50,7 +50,7 @@ if __name__ == "__main__":
                 if row[0] == "Número de Serie":
                     print(row[0],' :',row[1])
                 # Objects:
-                if 'Obj' in row[0]:
+                if 'Obj#' in row[0]:
                     print(row[0],' :',row[1])
                     for group_address in row[1].split(' '):
                         if not group_address in direcciones_de_grupo:
