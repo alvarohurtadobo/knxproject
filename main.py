@@ -8,13 +8,18 @@ parser.add_argument("-f", "--folder", type=str, default = './test_data', help = 
 args = parser.parse_args()
 
 if __name__ == "__main__":
-    print('Files to be tested:')
+    output_file_name = args.folder+'.txt'
+    with open(output_file_name,'w') as output_file:
+        output_file.write('\nStarted file')
+
+    output_file = open(output_file_name,'a')
+    output_file.write('\nFiles to be tested:')
     filesToRead = []
     for filename in os.listdir(args.folder):
         if '.htm' in filename:
-            print(filename)
+            output_file.write('\n\t'+filename)
             filesToRead.append(filename)
-    print(len(filesToRead),' files to process')
+    output_file.write('\n'+str(len(filesToRead))+' files to process')
 
     filesToRead = sorted(filesToRead)
 
@@ -24,7 +29,7 @@ if __name__ == "__main__":
     grupos_individuales = []
 
     for htmlfile in filesToRead:
-        print(htmlfile)
+        output_file.write('\n'+htmlfile)
         data = open(args.folder+'/'+htmlfile)
         soup = BeautifulSoup(data,'html')
         tables = soup.find_all('table')
@@ -37,21 +42,21 @@ if __name__ == "__main__":
                 for column in columns:
                     value = column.get_text()
                     column_list.append(value)
-                    #print('\tValue: ',value)
+                    #output_file.write('\n\tValue: '+value)
                 row_table_list.append(column_list)
-                #print('\tCol: ',len(column_list))
+                #output_file.write('\n\tCol: '+str(len(column_list)))
 
         for row in row_table_list:
             if row:
                 if row[0] == "Dirección Individual":
-                    print(row[0],' :',row[1])
+                    output_file.write('\n\t'+row[0]+' :'+row[1])
                 if row[0] == "Programa de aplicación":
-                    print(row[0],' :',row[1])
+                    output_file.write('\n\t'+row[0]+' :'+row[1])
                 if row[0] == "Número de Serie":
-                    print(row[0],' :',row[1])
+                    output_file.write('\n\t'+row[0]+' :'+row[1])
                 # Objects:
                 if 'Obj#' in row[0]:
-                    print(row[0],' :',row[1])
+                    output_file.write('\n\t'+row[0]+' :'+row[1])
                     for group_address in row[1].split(' '):
                         if not group_address in direcciones_de_grupo:
                             direcciones_de_grupo.append(group_address)
@@ -67,18 +72,31 @@ if __name__ == "__main__":
                             grupos_individuales.append(individual)
 
     direcciones_de_grupo = sorted(direcciones_de_grupo)
-    print('\tDirecciones de grupo totales:')
-    print(direcciones_de_grupo)
+    
+    output_file.write('\n####################################################################\n')
 
     grupos_principales = sorted(grupos_principales)
-    print('\tDirecciones principales:')
-    print(grupos_principales)
+    output_file.write('\nDirecciones principales:')
+    for item in grupos_principales:
+        output_file.write('\n\t-\t'+str(item))
+
     grupos_secundarios = sorted(grupos_secundarios)
-    print('\tDirecciones secundarias:')
-    print(grupos_secundarios)
+    output_file.write('\nDirecciones secundarias:')
+    for item in grupos_secundarios:
+        output_file.write('\n\t-\t'+str(item))
+
     grupos_individuales = sorted(grupos_individuales)
-    print('\tDirecciones individuales:')
-    print(grupos_individuales)
+    output_file.write('\nDirecciones individuales:')
+    for item in grupos_individuales:
+        output_file.write('\n\t-\t'+str(item))
+
+    output_file.write('\n####################################################################\n')
+
+    output_file.write('\nDirecciones de grupo totales:')
+    for item in direcciones_de_grupo:
+        output_file.write('\n\t-\t'+str(item))
+
+    output_file.close()
 
 
         
