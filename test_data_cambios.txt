@@ -77,9 +77,9 @@ dev_1_1_04.html
 	Obj#71 :3/1/2
 	Obj#101 :3/1/3
 dev_1_1_05_output8channel.html
-	Obj#10 :0/2/0 3/0/0 23/7/1
+	Obj#10 :0/2/0 3/0/0 23/7/1				
 	Obj#30 :0/2/1 4/0/0 23/7/1
-	Obj#50 :0/2/2 4/1/0 23/7/1
+	Obj#50 :0/2/2 4/1/0 23/7/1				Added 4/0/1
 	Obj#70 :0/2/3
 	Obj#90 :0/2/4 4/2/1 4/6/0 23/7/1
 	Obj#110 :0/2/5 4/2/2 23/7/1
@@ -110,9 +110,9 @@ dev_1_1_07_output16channel.html
 dev_1_1_08_acoplador.html
 dev_1_1_09_input4channel.html
 	Obj#10 :23/7/2
-	Obj#11 :23/7/1
+	Obj#11 :23/7/1								Removido
 	Obj#40 :23/7/2
-	Obj#41 :23/7/3
+	Obj#41 :23/7/3								Removido
 dev_1_1_10_input4channel.html
 dev_1_1_12_interruptorSalaControl.html
 	Obj#11 :3/0/0

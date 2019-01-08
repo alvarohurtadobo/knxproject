@@ -3,7 +3,7 @@
   <head>
     <META http-equiv="Content-Type" content="text/html; charset=utf-16">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Informaci&#243;n del Dispositivo 1.1.6</title>
+    <title>Informaci&#243;n del Dispositivo 1.1.30</title>
     <style type="text/css">@font-face {
     font-family: "Segoe UI";
     font-weight: 200;
@@ -267,7 +267,7 @@ label span
     return true;
 }</script></head>
   <body oncontextmenu="return false;">
-    <h1>Informaci&#243;n del Dispositivo 1.1.6</h1>
+    <h1>Informaci&#243;n del Dispositivo 1.1.30</h1>
     <h2>General</h2>
     <table class="results">
       <colgroup>
@@ -287,27 +287,21 @@ label span
       <tbody>
         <tr>
           <td>Versión de Máscara</td>
-          <td>0701</td>
+          <td>0912</td>
           <td> </td>
-          <td>1793</td>
+          <td>2322</td>
         </tr>
         <tr>
           <td>Dirección Individual</td>
-          <td>1.1.6</td>
+          <td>1.1.30</td>
           <td>IndividualAddress</td>
-          <td>4358</td>
-        </tr>
-        <tr>
-          <td>Número de Pedido</td>
-          <td>$10020000000000000000</td>
-          <td>DeviceOrderId</td>
-          <td>10020000000000000000</td>
+          <td>4382</td>
         </tr>
         <tr>
           <td>Número de Serie</td>
-          <td>6D6C:408F2AF9</td>
+          <td>0072:310E415F</td>
           <td>DeviceSerialNumber</td>
-          <td>6D6C408F2AF9</td>
+          <td>0072310E415F</td>
         </tr>
         <tr>
           <td>Modo Programación</td>
@@ -315,9 +309,21 @@ label span
           <td>ProgrammingMode</td>
           <td>false</td>
         </tr>
+        <tr>
+          <td>Error de Ejecución</td>
+          <td>Correcto ($FF)</td>
+          <td>RunError</td>
+          <td>255</td>
+        </tr>
+        <tr>
+          <td>Longitud de APDU máx.</td>
+          <td>240</td>
+          <td>MaxApduLength</td>
+          <td>240</td>
+        </tr>
       </tbody>
     </table>
-    <h2>Programa de Aplicación</h2>
+    <h2>Acoplador de Línea</h2>
     <table class="results">
       <colgroup>
         <col class="col1">
@@ -335,96 +341,75 @@ label span
       </thead>
       <tbody>
         <tr>
-          <td>Programa de aplicación</td>
-          <td>HDL 205A V1.0</td>
-          <td>ApplicationId</td>
-          <td>0073205A10</td>
+          <td>Configuración Principal &gt; Secundaria</td>
+          <td>Telegramas dirigidos a Dir. Individual: normal
+<br>Repetición en caso de error de telegramas dirigidos a Dir. Individual: repetir
+<br>Broadcasts: normal
+<br>Repetición Broadcast en caso de error: repetir
+<br>IACK de Dirección de Grupo: solo al retransmitir
+<br>IACK de Dir. Individual: normal
+<br></td>
+          <td>MainLcConfig</td>
+          <td>119</td>
         </tr>
         <tr>
-          <td>Estado de Programación</td>
+          <td>Configuración Secundario &gt; Principal</td>
+          <td>Telegramas dirigidos a Dir. Individual: normal
+<br>Repetición en caso de error de telegramas dirigidos a Dir. Individual: repetir
+<br>Broadcasts: normal
+<br>Repetición Broadcast en caso de error: repetir
+<br>IACK de Dirección de Grupo: solo al retransmitir
+<br>IACK de Dir. Individual: normal
+<br></td>
+          <td>SubLcConfig</td>
+          <td>119</td>
+        </tr>
+        <tr>
+          <td>Configuración Principal &gt; Subgrupo</td>
+          <td>Direcciones de Grupo &lt;= 0x6FFF (13/7/255): usar tabla de filtros
+<br>Direcciones de Grupo &gt;= 0x7000 (14/0/0): pasar siempre
+<br>Ante error de transmisión: repetir
+<br></td>
+          <td>MainLcGrpConfig</td>
+          <td>23</td>
+        </tr>
+        <tr>
+          <td>Configuración Secundario &gt; Grupo Principal</td>
+          <td>Direcciones de Grupo &lt;= 0x6FFF (13/7/255): usar tabla de filtros
+<br>Direcciones de Grupo &gt;= 0x7000 (14/0/0): pasar siempre
+<br>Ante error de transmisión: repetir
+<br></td>
+          <td>SubLcGrpConfig</td>
+          <td>23</td>
+        </tr>
+        <tr>
+          <td>Modo</td>
+          <td>Repetidor</td>
+          <td>LcMode</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Estado de Carga de la Tabla de Filtros</td>
           <td>Cargado</td>
-          <td>ApplicationLoadStatus</td>
+          <td>GroupFilterTableLoadStatus</td>
           <td>1</td>
         </tr>
         <tr>
-          <td>Estado de Ejecución</td>
-          <td>En ejecución</td>
-          <td>ApplicationRunStatus</td>
-          <td>1</td>
-        </tr>
-      </tbody>
-    </table>
-    <h2>Programa de Aplicación 2</h2>
-    <table class="results">
-      <colgroup>
-        <col class="col1">
-        <col class="col2">
-        <col class="col3">
-        <col class="col4">
-      </colgroup>
-      <thead>
-        <tr>
-          <th>Elemento</th>
-          <th>Valor</th>
-          <th>Nombre del recurso</th>
-          <th>Valor sin formato</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Programa de aplicación</td>
-          <td>0 0000 V0.0</td>
-          <td>PeiprogId</td>
-          <td>0000000000</td>
+          <td>Control de Servicios del Acoplador</td>
+          <td>Comprobación de inconsistencias: deshabilitada
+<br>Heartbeat: deshabilitado
+<br>Actualización SNA: deshabilitada
+<br>Lectura SNA: habilitada
+<br>Estado línea sub.: deshabilitada
+<br></td>
+          <td>CouplServControl</td>
+          <td>8</td>
         </tr>
         <tr>
-          <td>Estado de Programación</td>
-          <td>Descargado</td>
-          <td>PeiprogLoadStatus</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Estado de Ejecución</td>
-          <td>Detenido</td>
-          <td>PeiprogRunStatus</td>
-          <td>0</td>
-        </tr>
-      </tbody>
-    </table>
-    <h2>Comunicación de Grupos</h2>
-    <table class="results">
-      <colgroup>
-        <col class="col1">
-        <col class="col2">
-        <col class="col3">
-        <col class="col4">
-      </colgroup>
-      <thead>
-        <tr>
-          <th>Elemento</th>
-          <th>Valor</th>
-          <th>Nombre del recurso</th>
-          <th>Valor sin formato</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Estado de Carga Tabla de Direcciones</td>
-          <td>Cargado</td>
-          <td>GroupAddressTableLoadStatus</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Estado de Programación de la Tabla de Asociaciones</td>
-          <td>Cargado</td>
-          <td>GroupAssociationTableLoadStatus</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Obj#30</td>
-          <td>3/0/2</td>
-          <td> </td>
-          <td> </td>
+          <td>Longitud APDU Routing máx.</td>
+          <td>240</td>
+          <td>MaxRoutingApduLength</td>
+          <td>240</td>
         </tr>
       </tbody>
     </table>
