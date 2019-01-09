@@ -38,7 +38,7 @@ if __name__ == "__main__":
             lastDevice = htmlfile.split('_')[-1].split('.')[0]
             print('\n'+htmlfile)
             data = open('./' + key + '/'+htmlfile)
-            soup = BeautifulSoup(data,'lxml')
+            soup = BeautifulSoup(data,'html')
             tables = soup.find_all('table')
             row_table_list = []
             
