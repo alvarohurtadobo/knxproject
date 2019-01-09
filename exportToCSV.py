@@ -38,7 +38,7 @@ if __name__ == "__main__":
             lastDevice = htmlfile.split('_')[-1].split('.')[0]
             print('\n'+htmlfile)
             data = open('./' + key + '/'+htmlfile)
-            soup = BeautifulSoup(data,'html')
+            soup = BeautifulSoup(data,'lxml')
             tables = soup.find_all('table')
             row_table_list = []
             
@@ -65,9 +65,8 @@ if __name__ == "__main__":
                         print('\n\t'+row[0]+' :'+row[1])
                     # Objects:
                     if 'Obj#' in row[0]:
-                        print(row)
                         if len(row) > 1:
-                            print('\n\t'+row[0]+' :'+row[1])
+                            print('\n\t'+str(row))
                             all_groups = row[1].split(' ')
 
                             groups = ["","",""]
@@ -117,6 +116,8 @@ if __name__ == "__main__":
                                                 'comment':lastDevice,
                                                 'other groups':groups[2]})
                             device_number += 1
+                        else:
+                            print('Omited ',row)
 
     with open(output_csv_name, 'w') as csvMainFile:
         fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','object','comment','other groups']
