@@ -53,11 +53,12 @@ if __name__ == "__main__":
                         #output_file.write('\n\tValue: '+value)
                     row_table_list.append(column_list)
                     #output_file.write('\n\tCol: '+str(len(column_list)))
-
+            lastAddress = 'No Address'
             for row in row_table_list:
                 if row:
                     if "Individual" in row[0]:
                         output_file.write('\n\t'+row[0]+' :'+row[1])
+                        lastAddress = row[1]
                     if "Programa de " in row[0]:
                         output_file.write('\n\t'+row[0]+' :'+row[1])
                     if "de Serie" in row[0]:
@@ -108,8 +109,8 @@ if __name__ == "__main__":
                                             'read group':groups[0],
                                             'write group':groups[1],
                                             'command':'on/off',
-                                            'device':lastDevice,
-                                            'comment':'',
+                                            'device':lastAddress,
+                                            'comment':lastDevice,
                                             'other groups':groups[2]})
                         device_number += 1
 
