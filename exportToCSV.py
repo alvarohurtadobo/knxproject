@@ -102,8 +102,8 @@ if __name__ == "__main__":
                             if not individual in grupos_individuales:
                                 grupos_individuales.append(individual)
                         toCSVlist.append({   'id': device_number,
-                                            'name': 'unknown',
-                                            'literal':'Control Domotico',
+                                            'name': '-',
+                                            'literal':'-',
                                             'area':key[2:].replace('_',' '),
                                             'IP':ipaddress,
                                             'read group':groups[0],
