@@ -123,7 +123,7 @@ if __name__ == "__main__":
             otherWriter = csv.DictWriter(csvOtherFile, fieldnames=fieldnames, delimiter=',')
             otherWriter.writeheader()
             for item in toCSVlist:
-                if 'output' in item['device']:
+                if 'output' in item['comment']:
                     writer.writerow(item)
                 else:
                     otherWriter.writerow(item)

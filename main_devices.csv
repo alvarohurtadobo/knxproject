@@ -1,1 +1,230 @@
 id,name,literal,area,IP,read group,write group,value,command,device,comment,other groups
+0,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/1,4/2/2,,on/off,1.1.1,output12channel,4/6/0
+1,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/2,,,on/off,1.1.1,output12channel,
+2,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/3,4/2/1,,on/off,1.1.1,output12channel,4/6/0
+3,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/4,,,on/off,1.1.1,output12channel,
+4,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/5,,,on/off,1.1.1,output12channel,
+5,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/6,,,on/off,1.1.1,output12channel,
+6,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/7,,,on/off,1.1.1,output12channel,
+7,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/8,3/0/2,,on/off,1.1.1,output12channel,4/2/5 4/6/1
+8,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/9,4/2/0,,on/off,1.1.1,output12channel,23/7/1
+9,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/10,3/0/1,,on/off,1.1.1,output12channel,4/2/4 4/6/1
+10,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/11,,,on/off,1.1.1,output12channel,
+11,unknown,Control Domotico,Sala multiple,192.168.8.254,0/0/12,,,on/off,1.1.1,output12channel,
+12,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/0,,,on/off,1.1.2,output12channel,
+13,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/1,,,on/off,1.1.2,output12channel,
+14,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/2,,,on/off,1.1.2,output12channel,
+15,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/3,,,on/off,1.1.2,output12channel,
+16,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/4,,,on/off,1.1.2,output12channel,
+17,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/5,,,on/off,1.1.2,output12channel,
+18,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/6,,,on/off,1.1.2,output12channel,
+19,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/7,,,on/off,1.1.2,output12channel,
+20,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/8,,,on/off,1.1.2,output12channel,
+21,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/9,,,on/off,1.1.2,output12channel,
+22,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/10,,,on/off,1.1.2,output12channel,
+23,unknown,Control Domotico,Sala multiple,192.168.8.254,0/1/11,,,on/off,1.1.2,output12channel,
+32,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/0,3/0/0,,on/off,1.1.5,output8channel,23/7/1
+33,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/1,4/0/0,,on/off,1.1.5,output8channel,23/7/1
+34,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/2,4/1/0,,on/off,1.1.5,output8channel,23/7/1
+35,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/3,,,on/off,1.1.5,output8channel,
+36,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/4,4/2/1,,on/off,1.1.5,output8channel,4/6/0 23/7/1
+37,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/5,4/2/2,,on/off,1.1.5,output8channel,23/7/1
+38,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/6,,,on/off,1.1.5,output8channel,
+39,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/7,,,on/off,1.1.5,output8channel,
+40,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/0,1/0/1,,on/off,1.1.6,output8channel,5/0/0 23/7/1
+41,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/1,1/0/1,,on/off,1.1.6,output8channel,5/0/0 23/7/1
+42,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/2,,,on/off,1.1.6,output8channel,
+43,unknown,Control Domotico,Sala multiple,192.168.8.254,0/2/3,23/7/0,,on/off,1.1.6,output8channel,
+44,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/1,,,on/off,1.1.7,output16channel,
+45,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/2,3/2/0,,on/off,1.1.7,output16channel,
+46,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/3,,,on/off,1.1.7,output16channel,
+47,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/4,,,on/off,1.1.7,output16channel,
+48,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/5,,,on/off,1.1.7,output16channel,
+49,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/6,,,on/off,1.1.7,output16channel,
+50,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/7,,,on/off,1.1.7,output16channel,
+51,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/8,0/4/7,,on/off,1.1.7,output16channel,
+52,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/9,,,on/off,1.1.7,output16channel,
+53,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/10,,,on/off,1.1.7,output16channel,
+54,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/11,,,on/off,1.1.7,output16channel,
+55,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/12,,,on/off,1.1.7,output16channel,
+56,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/0,,,on/off,1.1.7,output16channel,
+57,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/13,,,on/off,1.1.7,output16channel,
+58,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/14,,,on/off,1.1.7,output16channel,
+59,unknown,Control Domotico,Sala multiple,192.168.8.254,0/4/15,23/7/0,,on/off,1.1.7,output16channel,
+105,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/0,4/3/0,,on/off,1.1.25,output12channel,23/7/1
+106,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/1,4/3/0,,on/off,1.1.25,output12channel,23/7/1
+107,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/2,4/3/1,,on/off,1.1.25,output12channel,23/7/1
+108,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/3,4/3/2,,on/off,1.1.25,output12channel,23/7/1
+109,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/4,4/3/3,,on/off,1.1.25,output12channel,23/7/1
+110,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/5,,,on/off,1.1.25,output12channel,
+111,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/6,7/0/0,,on/off,1.1.25,output12channel,
+112,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/7,,,on/off,1.1.25,output12channel,
+113,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/8,7/0/0,,on/off,1.1.25,output12channel,23/7/1
+114,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/9,7/0/0,,on/off,1.1.25,output12channel,23/7/1
+115,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/10,,,on/off,1.1.25,output12channel,
+116,unknown,Control Domotico,Sala multiple,192.168.8.254,2/0/11,,,on/off,1.1.25,output12channel,
+117,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/0,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
+118,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/1,4/4/4,,on/off,1.1.28,output16channel,23/7/1
+119,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/2,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
+120,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/3,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
+121,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/4,4/4/4,,on/off,1.1.28,output16channel,23/7/1
+122,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/5,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
+123,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/6,4/4/4,,on/off,1.1.28,output16channel,23/7/1
+124,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/7,4/4/4,,on/off,1.1.28,output16channel,23/7/1
+125,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/8,4/4/5,,on/off,1.1.28,output16channel,23/7/1
+126,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/9,4/4/4,,on/off,1.1.28,output16channel,23/7/1
+127,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/10,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
+128,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/11,7/0/0,,on/off,1.1.28,output16channel,23/7/1
+129,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/12,,,on/off,1.1.28,output16channel,
+130,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/13,1/0/11,,on/off,1.1.28,output16channel,23/7/1
+131,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/14,,,on/off,1.1.28,output16channel,
+132,unknown,Control Domotico,Sala multiple,192.168.8.254,1/0/15,,,on/off,1.1.28,output16channel,
+133,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/0,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+134,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/1,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+135,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/2,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+136,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/3,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+137,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/4,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+138,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/5,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+139,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/6,4/4/5,,on/off,1.1.29,output16channel,23/7/1
+140,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/7,4/4/5,,on/off,1.1.29,output16channel,
+141,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/8,4/4/5,,on/off,1.1.29,output16channel,23/7/3
+142,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/9,4/4/5,,on/off,1.1.29,output16channel,23/7/3
+143,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/10,4/4/5,,on/off,1.1.29,output16channel,23/7/3
+144,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/11,4/4/5,,on/off,1.1.29,output16channel,
+145,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/12,4/4/5,,on/off,1.1.29,output16channel,
+146,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/13,4/4/5,,on/off,1.1.29,output16channel,
+147,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/14,4/4/5,,on/off,1.1.29,output16channel,
+148,unknown,Control Domotico,Sala multiple,192.168.8.254,1/1/15,4/4/5,,on/off,1.1.29,output16channel,
+149,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/0,4/4/5,,on/off,1.1.30,output16channel,23/7/1
+150,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/1,4/4/5,,on/off,1.1.30,output16channel,23/7/1
+151,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/2,4/4/4,,on/off,1.1.30,output16channel,23/7/1
+152,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/3,4/4/5,,on/off,1.1.30,output16channel,23/7/1
+153,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/4,4/4/5,,on/off,1.1.30,output16channel,23/7/1
+154,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/5,4/4/5,,on/off,1.1.30,output16channel,23/7/1
+155,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/6,23/7/1,,on/off,1.1.30,output16channel,
+156,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/7,4/4/5,,on/off,1.1.30,output16channel,
+157,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/8,4/4/5,,on/off,1.1.30,output16channel,
+158,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/9,4/4/5,,on/off,1.1.30,output16channel,
+159,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/10,4/4/5,,on/off,1.1.30,output16channel,
+160,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/11,4/4/5,,on/off,1.1.30,output16channel,
+161,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/12,4/4/5,,on/off,1.1.30,output16channel,
+162,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/13,,,on/off,1.1.30,output16channel,
+163,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/14,,,on/off,1.1.30,output16channel,
+164,unknown,Control Domotico,Sala multiple,192.168.8.254,1/2/15,,,on/off,1.1.30,output16channel,
+165,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/0,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+166,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/1,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+167,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/2,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+168,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/3,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+169,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/4,4/4/5,,on/off,1.1.31,output16channel,
+170,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/5,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+171,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/6,4/4/5,,on/off,1.1.31,output16channel,23/7/1
+172,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/7,4/4/5,,on/off,1.1.31,output16channel,
+173,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/8,4/4/0,,on/off,1.1.31,output16channel,23/7/1
+174,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/9,23/7/1,,on/off,1.1.31,output16channel,
+175,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/10,4/4/1,,on/off,1.1.31,output16channel,4/5/0 4/5/2 23/7/1
+176,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/11,4/4/2,,on/off,1.1.31,output16channel,4/5/1 4/5/3 23/7/1
+177,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/12,,,on/off,1.1.31,output16channel,
+178,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/13,,,on/off,1.1.31,output16channel,
+179,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/14,,,on/off,1.1.31,output16channel,
+180,unknown,Control Domotico,Sala multiple,192.168.8.254,1/3/15,,,on/off,1.1.31,output16channel,
+210,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/1,2/3/0,,on/off,1.1.1,output12channel,3/0/4 3/0/5 23/7/1
+211,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/2,2/3/1,,on/off,1.1.1,output12channel,3/0/4 3/0/5 23/7/1
+212,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/3,7/0/0,,on/off,1.1.1,output12channel,
+213,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/4,2/0/1,,on/off,1.1.1,output12channel,3/0/0 3/0/3 23/7/1
+214,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/2,,,on/off,1.1.1,output12channel,
+215,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/5,2/0/1,,on/off,1.1.1,output12channel,3/0/0 3/0/3 23/7/1
+216,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/3,,,on/off,1.1.1,output12channel,
+217,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/6,2/0/1,,on/off,1.1.1,output12channel,23/7/1
+218,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/7,2/0/1,,on/off,1.1.1,output12channel,3/0/0 3/0/3 23/7/1
+219,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/8,2/0/1,,on/off,1.1.1,output12channel,3/0/0 3/0/3 23/7/1
+220,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/4,,,on/off,1.1.1,output12channel,
+221,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/9,2/0/1,,on/off,1.1.1,output12channel,3/0/0 3/0/3 23/7/1
+222,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/5,,,on/off,1.1.1,output12channel,
+223,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/10,2/1/1,,on/off,1.1.1,output12channel,2/2/1 23/7/1
+224,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/11,2/1/1,,on/off,1.1.1,output12channel,2/2/1 23/7/1
+225,unknown,Control Domotico,Sala vip,192.168.4.214,0/0/12,23/7/1,,on/off,1.1.1,output12channel,
+226,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/0,,,on/off,1.1.2,output6channelDimmer,
+227,unknown,Control Domotico,Sala vip,192.168.4.214,6/0/1,,,on/off,1.1.2,output6channelDimmer,
+228,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/0,2/0/0,,on/off,1.1.2,output6channelDimmer,3/0/0 3/0/3 23/7/1
+229,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/0,2/0/2,,on/off,1.1.2,output6channelDimmer,
+230,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/0,,,on/off,1.1.2,output6channelDimmer,
+231,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/1,2/0/0,,on/off,1.1.2,output6channelDimmer,3/0/0 23/7/1
+232,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/1,2/0/2,,on/off,1.1.2,output6channelDimmer,
+233,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/1,,,on/off,1.1.2,output6channelDimmer,
+234,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/2,2/0/0,,on/off,1.1.2,output6channelDimmer,3/0/0 23/7/1
+235,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/2,2/0/2,,on/off,1.1.2,output6channelDimmer,
+236,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/2,,,on/off,1.1.2,output6channelDimmer,
+237,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/3,2/1/0,,on/off,1.1.2,output6channelDimmer,2/2/0 3/0/1 3/0/2 23/7/1
+238,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/3,2/1/2,,on/off,1.1.2,output6channelDimmer,2/2/2
+239,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/3,,,on/off,1.1.2,output6channelDimmer,
+240,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/4,2/1/0,,on/off,1.1.2,output6channelDimmer,2/2/0 3/0/1 3/0/2 23/7/1
+241,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/4,2/1/2,,on/off,1.1.2,output6channelDimmer,2/2/2 2/2/3
+242,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/4,,,on/off,1.1.2,output6channelDimmer,
+243,unknown,Control Domotico,Sala vip,192.168.4.214,1/0/5,23/7/0,,on/off,1.1.2,output6channelDimmer,
+244,unknown,Control Domotico,Sala vip,192.168.4.214,1/1/5,,,on/off,1.1.2,output6channelDimmer,
+245,unknown,Control Domotico,Sala vip,192.168.4.214,1/2/5,,,on/off,1.1.2,output6channelDimmer,
+414,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/1,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
+415,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/2,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
+416,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/3,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
+417,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/4,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
+418,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/5,,,on/off,1.1.4,output12channel,
+419,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/6,,,on/off,1.1.4,output12channel,
+420,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/7,,,on/off,1.1.4,output12channel,
+421,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/8,,,on/off,1.1.4,output12channel,
+422,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/9,,,on/off,1.1.4,output12channel,
+423,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/10,,,on/off,1.1.4,output12channel,
+424,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/11,,,on/off,1.1.4,output12channel,
+425,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/0/12,,,on/off,1.1.4,output12channel,
+426,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/0,1/0/1,,on/off,1.1.5,output12channel,5/0/0 23/7/1
+427,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/1,1/0/1,,on/off,1.1.5,output12channel,5/0/0 23/7/1
+428,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/2,1/0/1,,on/off,1.1.5,output12channel,5/0/2 23/7/1
+429,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/3,1/0/0,,on/off,1.1.5,output12channel,5/0/1 23/7/1
+430,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/4,,,on/off,1.1.5,output12channel,
+431,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/5,,,on/off,1.1.5,output12channel,
+432,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/6,,,on/off,1.1.5,output12channel,
+433,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/7,,,on/off,1.1.5,output12channel,
+434,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/8,,,on/off,1.1.5,output12channel,
+435,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/9,23/7/3,,on/off,1.1.5,output12channel,
+436,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/10,23/7/3,,on/off,1.1.5,output12channel,
+437,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/1/11,,,on/off,1.1.5,output12channel,
+438,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/2/0,1/0/1,,on/off,1.1.6,output4channel,5/0/0 23/7/1
+439,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/2/1,1/0/1,,on/off,1.1.6,output4channel,5/0/0 23/7/1
+440,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/2/2,,,on/off,1.1.6,output4channel,
+441,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/2/3,23/7/0,,on/off,1.1.6,output4channel,
+450,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/3/0,23/7/3,,on/off,1.1.9,output4channel,
+451,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/3/1,23/7/3,,on/off,1.1.9,output4channel,
+452,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/3/2,23/7/3,,on/off,1.1.9,output4channel,
+453,unknown,Control Domotico,Plaza comidas,192.168.2.86,0/3/3,23/7/3,,on/off,1.1.9,output4channel,
+458,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/1,5/0/3,,on/off,1.1.1,output16channel,23/7/1
+459,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/2,5/0/3,,on/off,1.1.1,output16channel,23/7/1
+460,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/3,5/0/3,,on/off,1.1.1,output16channel,23/7/1
+461,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/4,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+462,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/5,5/0/1,,on/off,1.1.1,output16channel,23/7/1
+463,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/6,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+464,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/7,5/0/1,,on/off,1.1.1,output16channel,23/7/1
+465,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/8,,,on/off,1.1.1,output16channel,
+466,unknown,Control Domotico,Auditorios,192.168.6.254,4/2/4,,,on/off,1.1.1,output16channel,
+467,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/9,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+468,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/10,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+469,unknown,Control Domotico,Auditorios,192.168.6.254,5/3/12,0/0/11,,on/off,1.1.1,output16channel,5/0/9 5/0/10 5/0/21 5/0/22 5/3/0 23/7/1
+470,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/12,5/0/11,,on/off,1.1.1,output16channel,5/0/23 5/5/3 5/5/15 23/7/1
+471,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/13,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+472,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/14,5/0/1,,on/off,1.1.1,output16channel,23/7/1
+473,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/15,5/0/0,,on/off,1.1.1,output16channel,23/7/1
+474,unknown,Control Domotico,Auditorios,192.168.6.254,0/0/16,,,on/off,1.1.1,output16channel,
+475,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/0,5/0/6,,on/off,1.1.4,output8channel,5/0/18 5/5/1 5/5/13 23/7/1
+476,unknown,Control Domotico,Auditorios,192.168.6.254,5/3/2,0/2/1,,on/off,1.1.4,output8channel,5/0/9 5/0/21 5/2/1 5/3/14 23/7/1
+477,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/2,23/7/1,,on/off,1.1.4,output8channel,
+478,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/3,,,on/off,1.1.4,output8channel,
+479,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/4,,,on/off,1.1.4,output8channel,
+480,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/5,23/7/1,,on/off,1.1.4,output8channel,
+481,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/6,5/0/4,,on/off,1.1.4,output8channel,5/0/16 23/7/1
+482,unknown,Control Domotico,Auditorios,192.168.6.254,0/2/7,,,on/off,1.1.4,output8channel,
+487,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/0,5/0/19,,on/off,1.1.10,output8channel,23/0/0 23/7/1
+488,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/1,5/0/19,,on/off,1.1.10,output8channel,23/7/1
+489,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/2,5/0/19,,on/off,1.1.10,output8channel,23/0/0 23/7/1
+490,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/3,5/0/19,,on/off,1.1.10,output8channel,23/7/1
+491,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/4,23/7/3,,on/off,1.1.10,output8channel,
+492,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/5,23/7/3,,on/off,1.1.10,output8channel,
+493,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/6,23/7/3,,on/off,1.1.10,output8channel,
+494,unknown,Control Domotico,Auditorios,192.168.6.254,1/0/7,,,on/off,1.1.10,output8channel,
