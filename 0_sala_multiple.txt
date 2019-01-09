@@ -18,7 +18,7 @@ Files to be tested:
 	dev_1_1_16.html
 	dev_1_1_17_panelRecepcion.html
 	dev_1_1_18_timer.html
-	dev_1_1_19.html
+	dev_1_1_19_interruptorConmutadorBanos.html
 	dev_1_1_20_interruptorPorteria.html
 	dev_1_1_21_interruptorParqueo.html
 	dev_1_1_22_panelPrensa1.html
@@ -41,6 +41,10 @@ Files to be tested:
 	dev_1_1_56.html
 38 files to process
 dev_1_1_01_output12channel.html
+	Dirección Individual :1.1.1
+	Número de Serie :8CFB:79BB7C1F
+	Programa de aplicación :HDL 203A V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/0/1 4/2/2 4/6/0
 	Obj#30 :0/0/2
 	Obj#50 :0/0/3 4/2/1 4/6/0
@@ -54,6 +58,10 @@ dev_1_1_01_output12channel.html
 	Obj#210 :0/0/11
 	Obj#230 :0/0/12
 dev_1_1_02_output12channel.html
+	Dirección Individual :1.1.2
+	Número de Serie :8CFB:79BB7C20
+	Programa de aplicación :HDL 203A V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/1/0
 	Obj#30 :0/1/1
 	Obj#50 :0/1/2
@@ -67,16 +75,28 @@ dev_1_1_02_output12channel.html
 	Obj#210 :0/1/10
 	Obj#230 :0/1/11
 dev_1_1_03.html
+	Dirección Individual :1.1.3
+	Número de Serie :8940:DE737219
+	Programa de aplicación :HDL 2038 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :2/1/0 23/7/3
 	Obj#30 :2/1/1 23/7/3
 	Obj#50 :2/1/2 23/7/3
 	Obj#70 :2/1/3 23/7/3
 dev_1_1_04.html
+	Dirección Individual :1.1.4
+	Número de Serie :640E:18D6F484
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/1/0
 	Obj#41 :3/1/1
 	Obj#71 :3/1/2
 	Obj#101 :3/1/3
 dev_1_1_05_output8channel.html
+	Dirección Individual :1.1.5
+	Número de Serie :8912:418A76E5
+	Programa de aplicación :HDL 20B5 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/2/0 3/0/0 23/7/1
 	Obj#30 :0/2/1 4/0/0 23/7/1
 	Obj#50 :0/2/2 4/1/0 23/7/1
@@ -86,11 +106,19 @@ dev_1_1_05_output8channel.html
 	Obj#130 :0/2/6
 	Obj#150 :0/2/7
 dev_1_1_06_output8channel.html
+	Dirección Individual :1.1.6
+	Número de Serie :8912:418A76B6
+	Programa de aplicación :HDL 20B4 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/2/0 1/0/1 5/0/0 23/7/1
 	Obj#30 :0/2/1 1/0/1 5/0/0 23/7/1
 	Obj#50 :0/2/2
 	Obj#70 :0/2/3 23/7/0
 dev_1_1_07_output16channel.html
+	Dirección Individual :1.1.7
+	Número de Serie :89E3:D9F0AC5B
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/4/1
 	Obj#20 :0/4/2 3/2/0
 	Obj#30 :0/4/3
@@ -108,27 +136,61 @@ dev_1_1_07_output16channel.html
 	Obj#150 :0/4/14
 	Obj#160 :0/4/15 23/7/0
 dev_1_1_08_acoplador.html
+	Dirección Individual :1.1.8
+	Número de Serie :0072:310E415C
 dev_1_1_09_input4channel.html
+	Dirección Individual :1.1.9
+	Número de Serie :640E:18D6F3FF
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :23/7/2
 	Obj#11 :23/7/1
 	Obj#40 :23/7/2
 	Obj#41 :23/7/3
 dev_1_1_10_input4channel.html
+	Dirección Individual :1.1.10
+	Número de Serie :640E:18D6F3C0
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 dev_1_1_12_interruptorSalaControl.html
+	Dirección Individual :1.1.12
+	Número de Serie :640E:18D6F3BA
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/0/0
 dev_1_1_13_interruptorSalaServidor.html
+	Dirección Individual :1.1.13
+	Número de Serie :5983:911A55F0
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/0/0
 	Obj#90 :4/0/1
 dev_1_1_14_interruptorPasillo.html
+	Dirección Individual :1.1.14
+	Número de Serie :5983:911A55ED
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/1/0
 	Obj#90 :4/1/1
 dev_1_1_15.html
+	Dirección Individual :1.1.15
+	Número de Serie :640E:18D6F3B8
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/0/1
 	Obj#41 :3/0/1
 dev_1_1_16.html
+	Dirección Individual :1.1.16
+	Número de Serie :640E:18D6F3F6
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/0/2
 	Obj#41 :3/0/2
 dev_1_1_17_panelRecepcion.html
+	Dirección Individual :1.1.17
+	Número de Serie :9AFF:5FA5A88A
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :4/2/0
 	Obj#50 :4/2/1
 	Obj#60 :4/2/2
@@ -138,28 +200,56 @@ dev_1_1_17_panelRecepcion.html
 	Obj#100 :4/2/6
 	Obj#110 :4/2/7
 dev_1_1_18_timer.html
+	Dirección Individual :1.1.18
+	Número de Serie :2762:C22BAB17
+	Programa de aplicación :HDL 208B V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :7/0/0
 	Obj#50 :23/7/2
 	Obj#90 :7/1/0
 	Obj#100 :23/7/0
 	Obj#140 :7/2/0
 	Obj#190 :7/3/0
-dev_1_1_19.html
+dev_1_1_19_interruptorConmutadorBanos.html
+	Dirección Individual :1.1.19
+	Número de Serie :5983:911A55D7
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/6/0
 	Obj#90 :4/6/1
 dev_1_1_20_interruptorPorteria.html
+	Dirección Individual :1.1.20
+	Número de Serie :5983:911A55D8
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/3/0
 	Obj#90 :4/3/1
 dev_1_1_21_interruptorParqueo.html
+	Dirección Individual :1.1.21
+	Número de Serie :5983:911A55E5
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/3/2
 	Obj#90 :4/3/3
 dev_1_1_22_panelPrensa1.html
+	Dirección Individual :1.1.22
+	Número de Serie :5983:911A5592
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/5/0
 	Obj#90 :4/5/1
 dev_1_1_23_panelPrensa2.html
+	Dirección Individual :1.1.23
+	Número de Serie :5983:911A55D2
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :4/5/2
 	Obj#90 :4/5/3
 dev_1_1_24_convenciones.html
+	Dirección Individual :1.1.24
+	Número de Serie :9AFF:5FA5A841
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :4/4/0
 	Obj#50 :4/4/1
 	Obj#60 :4/4/2
@@ -169,6 +259,10 @@ dev_1_1_24_convenciones.html
 	Obj#100 :4/4/6
 	Obj#110 :4/4/7
 dev_1_1_25_output12channel.html
+	Dirección Individual :1.1.25
+	Número de Serie :8CFB:79BB7C19
+	Programa de aplicación :HDL 203A V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :2/0/0 4/3/0 23/7/1
 	Obj#30 :2/0/1 4/3/0 23/7/1
 	Obj#50 :2/0/2 4/3/1 23/7/1
@@ -182,8 +276,18 @@ dev_1_1_25_output12channel.html
 	Obj#210 :2/0/10
 	Obj#230 :2/0/11
 dev_1_1_26_acoplador.html
+	Dirección Individual :1.1.26
+	Número de Serie :0072:310E4115
 dev_1_1_27.html
+	Dirección Individual :1.1.27
+	Número de Serie :640E:18D6F3C8
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 dev_1_1_28_output16channel.html
+	Dirección Individual :1.1.28
+	Número de Serie :89E3:D9F0AC5E
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :1/0/0 4/4/4 7/0/0 23/7/1
 	Obj#20 :1/0/1 4/4/4 23/7/1
 	Obj#30 :1/0/2 4/4/4 7/0/0 23/7/1
@@ -201,6 +305,10 @@ dev_1_1_28_output16channel.html
 	Obj#150 :1/0/14
 	Obj#160 :1/0/15
 dev_1_1_29_output16channel.html
+	Dirección Individual :1.1.29
+	Número de Serie :89E3:D9F0AC50
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :1/1/0 4/4/5 23/7/1
 	Obj#20 :1/1/1 4/4/5 23/7/1
 	Obj#30 :1/1/2 4/4/5 23/7/1
@@ -218,6 +326,10 @@ dev_1_1_29_output16channel.html
 	Obj#150 :1/1/14 4/4/5
 	Obj#160 :1/1/15 4/4/5
 dev_1_1_30_output16channel.html
+	Dirección Individual :1.1.30
+	Número de Serie :89E3:D9F0AC64
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :1/2/0 4/4/5 23/7/1
 	Obj#20 :1/2/1 4/4/5 23/7/1
 	Obj#30 :1/2/2 4/4/4 23/7/1
@@ -235,6 +347,10 @@ dev_1_1_30_output16channel.html
 	Obj#150 :1/2/14
 	Obj#160 :1/2/15
 dev_1_1_31_output16channel.html
+	Dirección Individual :1.1.31
+	Número de Serie :89E3:D9F0AC6D
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :1/3/0 4/4/5 23/7/1
 	Obj#20 :1/3/1 4/4/5 23/7/1
 	Obj#30 :1/3/2 4/4/5 23/7/1
@@ -252,16 +368,40 @@ dev_1_1_31_output16channel.html
 	Obj#150 :1/3/14
 	Obj#160 :1/3/15
 dev_1_1_32.html
+	Dirección Individual :1.1.32
+	Número de Serie :640E:18D6F3CE
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/0/5
 dev_1_1_33_input4channel.html
+	Dirección Individual :1.1.33
+	Número de Serie :640E:18D6F3CA
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 dev_1_1_34_input4channel_inbio.html
+	Dirección Individual :1.1.34
+	Número de Serie :640E:18D6F3C9
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :3/2/0
 	Obj#41 :3/2/1
 	Obj#71 :3/2/2
 	Obj#101 :3/2/3
 dev_1_1_35.html
+	Dirección Individual :1.1.35
+	Número de Serie :640E:18D6F3B7
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 dev_1_1_36.html
+	Dirección Individual :1.1.36
+	Número de Serie :640E:18D6F3DD
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 dev_1_1_37.html
+	Dirección Individual :1.1.37
+	Número de Serie :640E:18D6F430
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :0/0/1
 	Obj#33 :0/0/161
 	Obj#41 :0/0/2
@@ -271,6 +411,10 @@ dev_1_1_37.html
 	Obj#101 :0/0/4
 	Obj#123 :0/0/164
 dev_1_1_55.html
+	Dirección Individual :1.1.55
+	Número de Serie :8CE4:31449408
+	Programa de aplicación :HDL 2039 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :8/0/0 8/2/0
 	Obj#30 :8/0/1 8/2/1
 	Obj#50 :8/0/2 8/2/2
@@ -280,6 +424,10 @@ dev_1_1_55.html
 	Obj#130 :8/0/6
 	Obj#150 :8/0/7
 dev_1_1_56.html
+	Dirección Individual :1.1.56
+	Número de Serie :8CE4:31449413
+	Programa de aplicación :HDL 2039 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :8/1/0 8/2/3
 	Obj#30 :8/1/1 8/2/4
 	Obj#50 :8/1/2 8/2/3
@@ -288,257 +436,3 @@ dev_1_1_56.html
 	Obj#110 :8/1/5 8/2/7
 	Obj#130 :8/1/6 8/2/7
 	Obj#150 :8/1/7
-####################################################################
-
-Direcciones principales:
-	-	0
-	-	1
-	-	2
-	-	3
-	-	4
-	-	5
-	-	7
-	-	8
-	-	23
-Direcciones secundarias:
-	-	0
-	-	1
-	-	2
-	-	3
-	-	4
-	-	5
-	-	6
-	-	7
-Direcciones individuales:
-	-	0
-	-	1
-	-	2
-	-	3
-	-	4
-	-	5
-	-	6
-	-	7
-	-	8
-	-	9
-	-	10
-	-	11
-	-	12
-	-	13
-	-	14
-	-	15
-	-	161
-	-	162
-	-	163
-	-	164
-####################################################################
-
-Direcciones de grupo totales:
-	-	0/0/1
-	-	0/0/10
-	-	0/0/11
-	-	0/0/12
-	-	0/0/161
-	-	0/0/162
-	-	0/0/163
-	-	0/0/164
-	-	0/0/2
-	-	0/0/3
-	-	0/0/4
-	-	0/0/5
-	-	0/0/6
-	-	0/0/7
-	-	0/0/8
-	-	0/0/9
-	-	0/1/0
-	-	0/1/1
-	-	0/1/10
-	-	0/1/11
-	-	0/1/2
-	-	0/1/3
-	-	0/1/4
-	-	0/1/5
-	-	0/1/6
-	-	0/1/7
-	-	0/1/8
-	-	0/1/9
-	-	0/2/0
-	-	0/2/1
-	-	0/2/2
-	-	0/2/3
-	-	0/2/4
-	-	0/2/5
-	-	0/2/6
-	-	0/2/7
-	-	0/4/0
-	-	0/4/1
-	-	0/4/10
-	-	0/4/11
-	-	0/4/12
-	-	0/4/13
-	-	0/4/14
-	-	0/4/15
-	-	0/4/2
-	-	0/4/3
-	-	0/4/4
-	-	0/4/5
-	-	0/4/6
-	-	0/4/7
-	-	0/4/8
-	-	0/4/9
-	-	1/0/0
-	-	1/0/1
-	-	1/0/10
-	-	1/0/11
-	-	1/0/12
-	-	1/0/13
-	-	1/0/14
-	-	1/0/15
-	-	1/0/2
-	-	1/0/3
-	-	1/0/4
-	-	1/0/5
-	-	1/0/6
-	-	1/0/7
-	-	1/0/8
-	-	1/0/9
-	-	1/1/0
-	-	1/1/1
-	-	1/1/10
-	-	1/1/11
-	-	1/1/12
-	-	1/1/13
-	-	1/1/14
-	-	1/1/15
-	-	1/1/2
-	-	1/1/3
-	-	1/1/4
-	-	1/1/5
-	-	1/1/6
-	-	1/1/7
-	-	1/1/8
-	-	1/1/9
-	-	1/2/0
-	-	1/2/1
-	-	1/2/10
-	-	1/2/11
-	-	1/2/12
-	-	1/2/13
-	-	1/2/14
-	-	1/2/15
-	-	1/2/2
-	-	1/2/3
-	-	1/2/4
-	-	1/2/5
-	-	1/2/6
-	-	1/2/7
-	-	1/2/8
-	-	1/2/9
-	-	1/3/0
-	-	1/3/1
-	-	1/3/10
-	-	1/3/11
-	-	1/3/12
-	-	1/3/13
-	-	1/3/14
-	-	1/3/15
-	-	1/3/2
-	-	1/3/3
-	-	1/3/4
-	-	1/3/5
-	-	1/3/6
-	-	1/3/7
-	-	1/3/8
-	-	1/3/9
-	-	2/0/0
-	-	2/0/1
-	-	2/0/10
-	-	2/0/11
-	-	2/0/2
-	-	2/0/3
-	-	2/0/4
-	-	2/0/5
-	-	2/0/6
-	-	2/0/7
-	-	2/0/8
-	-	2/0/9
-	-	2/1/0
-	-	2/1/1
-	-	2/1/2
-	-	2/1/3
-	-	23/7/0
-	-	23/7/1
-	-	23/7/2
-	-	23/7/3
-	-	3/0/0
-	-	3/0/1
-	-	3/0/2
-	-	3/0/5
-	-	3/1/0
-	-	3/1/1
-	-	3/1/2
-	-	3/1/3
-	-	3/2/0
-	-	3/2/1
-	-	3/2/2
-	-	3/2/3
-	-	4/0/0
-	-	4/0/1
-	-	4/1/0
-	-	4/1/1
-	-	4/2/0
-	-	4/2/1
-	-	4/2/2
-	-	4/2/3
-	-	4/2/4
-	-	4/2/5
-	-	4/2/6
-	-	4/2/7
-	-	4/3/0
-	-	4/3/1
-	-	4/3/2
-	-	4/3/3
-	-	4/4/0
-	-	4/4/1
-	-	4/4/2
-	-	4/4/3
-	-	4/4/4
-	-	4/4/5
-	-	4/4/6
-	-	4/4/7
-	-	4/5/0
-	-	4/5/1
-	-	4/5/2
-	-	4/5/3
-	-	4/6/0
-	-	4/6/1
-	-	5/0/0
-	-	7/0/0
-	-	7/1/0
-	-	7/2/0
-	-	7/3/0
-	-	8/0/0
-	-	8/0/1
-	-	8/0/2
-	-	8/0/3
-	-	8/0/4
-	-	8/0/5
-	-	8/0/6
-	-	8/0/7
-	-	8/1/0
-	-	8/1/1
-	-	8/1/2
-	-	8/1/3
-	-	8/1/4
-	-	8/1/5
-	-	8/1/6
-	-	8/1/7
-	-	8/2/0
-	-	8/2/1
-	-	8/2/2
-	-	8/2/3
-	-	8/2/4
-	-	8/2/5
-	-	8/2/6
-	-	8/2/7
-	-	8/2/8
-	-	8/2/9

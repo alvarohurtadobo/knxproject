@@ -8,6 +8,11 @@ parser = argparse.ArgumentParser(description = 'Next options available')
 parser.add_argument("-f", "--folder", type=str, default = './3_auditorios', help = "Specify folder to work with")
 args = parser.parse_args()
 
+IPs = { '0_sala_multiple':'192.168.8.254',
+        '1_sala_vip':'192.168.4.214',
+        '2_plaza_comidas':'192.168.2.86',
+        '3_auditorios':'192.168.6.254'}
+
 if __name__ == "__main__":
     output_file_name = args.folder+'.txt'
     with open(output_file_name,'w') as output_file:
@@ -35,6 +40,7 @@ if __name__ == "__main__":
         soup = BeautifulSoup(data,'html')
         tables = soup.find_all('table')
         row_table_list = []
+        
         for table in tables:
             rows = table.find_all('tr')
             for row in rows:
@@ -49,11 +55,11 @@ if __name__ == "__main__":
 
         for row in row_table_list:
             if row:
-                if row[0] == "Dirección Individual":
+                if "Individual" in row[0]:
                     output_file.write('\n\t'+row[0]+' :'+row[1])
-                if row[0] == "Programa de aplicación":
+                if "Program" in row[0]:
                     output_file.write('\n\t'+row[0]+' :'+row[1])
-                if row[0] == "Número de Serie":
+                if "de Serie" in row[0]:
                     output_file.write('\n\t'+row[0]+' :'+row[1])
                 # Objects:
                 if 'Obj#' in row[0]:

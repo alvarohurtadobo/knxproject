@@ -1,16 +1,16 @@
 
 Started file
 Files to be tested:
-	1_1_00.html
-	1_1_01.html
-	1_1_04.html
-	1_1_05.html
-	1_1_06.html
-	1_1_07.html
-	1_1_08.html
-	1_1_09.html
-	1_1_10.html
-	1_1_11.html
+	1_1_00_ipgateway.html
+	1_1_01_output16channel.html
+	1_1_04_output8channel.html
+	1_1_05_input4channel.html
+	1_1_06_input4channel.html
+	1_1_07_input4channel.html
+	1_1_08_input4channel.html
+	1_1_09_input4channel.html
+	1_1_10_output8channel.html
+	1_1_11_input4channel.html
 	1_1_12.html
 	1_1_13.html
 	1_1_14.html
@@ -36,8 +36,14 @@ Files to be tested:
 	1_1_34.html
 	1_1_35.html
 34 files to process
-1_1_00.html
-1_1_01.html
+1_1_00_ipgateway.html
+	Dirección Individual :1.1.0
+	Número de Serie :0072:71244037
+1_1_01_output16channel.html
+	Dirección Individual :1.1.1
+	Número de Serie :89E3:D9F0AC4A
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/0/1 5/0/3 23/7/1
 	Obj#20 :0/0/2 5/0/3 23/7/1
 	Obj#30 :0/0/3 5/0/3 23/7/1
@@ -55,7 +61,11 @@ Files to be tested:
 	Obj#140 :0/0/14 5/0/1 23/7/1
 	Obj#150 :0/0/15 5/0/0 23/7/1
 	Obj#160 :0/0/16
-1_1_04.html
+1_1_04_output8channel.html
+	Dirección Individual :1.1.4
+	Número de Serie :8912:418A76D7
+	Programa de aplicación :HDL 20B5 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :0/2/0 5/0/6 5/0/18 5/5/1 5/5/13 23/7/1
 	Obj#30 :5/3/2 0/2/1 5/0/9 5/0/21 5/2/1 5/3/14 23/7/1
 	Obj#50 :0/2/2 23/7/1
@@ -64,16 +74,40 @@ Files to be tested:
 	Obj#110 :0/2/5 23/7/1
 	Obj#130 :0/2/6 5/0/4 5/0/16 23/7/1
 	Obj#150 :0/2/7
-1_1_05.html
-1_1_06.html
+1_1_05_input4channel.html
+	Dirección Individual :1.1.5
+	Número de Serie :640E:18D6F3D2
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
+1_1_06_input4channel.html
+	Dirección Individual :1.1.6
+	Número de Serie :640E:18D6F3C7
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :23/7/2
 	Obj#11 :23/7/1
 	Obj#40 :23/7/2
 	Obj#41 :23/7/3
-1_1_07.html
-1_1_08.html
-1_1_09.html
-1_1_10.html
+1_1_07_input4channel.html
+	Dirección Individual :1.1.7
+	Número de Serie :640E:18D6F3DE
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
+1_1_08_input4channel.html
+	Dirección Individual :1.1.8
+	Número de Serie :640E:18D6F3DB
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
+1_1_09_input4channel.html
+	Dirección Individual :1.1.9
+	Número de Serie :640E:18D6F3F9
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
+1_1_10_output8channel.html
+	Dirección Individual :1.1.10
+	Número de Serie :8912:418A76D3
+	Programa de aplicación :HDL 20B5 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :1/0/0 5/0/19 23/0/0 23/7/1
 	Obj#30 :1/0/1 5/0/19 23/7/1
 	Obj#50 :1/0/2 5/0/19 23/0/0 23/7/1
@@ -82,33 +116,61 @@ Files to be tested:
 	Obj#110 :1/0/5 23/7/3
 	Obj#130 :1/0/6 23/7/3
 	Obj#150 :1/0/7
-1_1_11.html
+1_1_11_input4channel.html
+	Dirección Individual :1.1.11
+	Número de Serie :640E:18D6F3C1
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :4/0/0
 	Obj#41 :4/0/1
 	Obj#71 :4/0/2
 	Obj#101 :4/0/3
 1_1_12.html
+	Dirección Individual :1.1.12
+	Número de Serie :5983:911A55E6
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :5/0/0
 	Obj#90 :5/0/1
 1_1_13.html
+	Dirección Individual :1.1.13
+	Número de Serie :5983:911A55EC
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :5/0/2
 	Obj#90 :5/0/3
 1_1_14.html
+	Dirección Individual :1.1.14
+	Número de Serie :9AFF:5FA5A832
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/0/4
 	Obj#50 :5/0/5
 	Obj#60 :5/0/6
 	Obj#70 :5/0/7
 1_1_15.html
+	Dirección Individual :1.1.15
+	Número de Serie :9AFF:5FA5A839
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/0/16
 	Obj#50 :5/0/17
 	Obj#60 :5/0/18
 	Obj#70 :5/0/19
 1_1_16.html
+	Dirección Individual :1.1.16
+	Número de Serie :9AFF:5FA5A88D
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/1/0
 	Obj#50 :5/1/1
 	Obj#60 :5/1/2
 	Obj#70 :5/1/3
 1_1_17.html
+	Dirección Individual :1.1.17
+	Número de Serie :9AFF:5FA5A837
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/1/12
 	Obj#50 :5/1/13
 	Obj#60 :5/1/14
@@ -118,6 +180,10 @@ Files to be tested:
 	Obj#100 :5/1/18
 	Obj#110 :5/1/19
 1_1_18.html
+	Dirección Individual :1.1.18
+	Número de Serie :9AFF:5FA5A88C
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/1/24
 	Obj#50 :5/1/25
 	Obj#60 :5/1/26
@@ -127,6 +193,10 @@ Files to be tested:
 	Obj#100 :5/1/30
 	Obj#110 :5/1/31
 1_1_19.html
+	Dirección Individual :1.1.19
+	Número de Serie :89E3:D9F0AC4F
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :2/0/0 5/1/3 5/1/15 23/7/1
 	Obj#20 :2/0/1 5/1/1 5/1/13 5/1/25 23/7/1
 	Obj#30 :2/0/2 5/1/3 5/1/15 23/7/1
@@ -144,14 +214,26 @@ Files to be tested:
 	Obj#150 :2/0/14
 	Obj#160 :2/0/15 23/7/1
 1_1_20.html
+	Dirección Individual :1.1.20
+	Número de Serie :640E:18D6F3CF
+	Programa de aplicación :HDL 2083 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#11 :4/1/0
 	Obj#41 :4/1/1
 	Obj#71 :4/1/2
 	Obj#101 :4/1/3
 1_1_21.html
+	Dirección Individual :1.1.21
+	Número de Serie :5983:911A5591
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :5/2/0
 	Obj#90 :5/2/1
 1_1_22.html
+	Dirección Individual :1.1.22
+	Número de Serie :9AFF:5FA5A838
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/3/0 5/3/12
 	Obj#50 :5/3/1 5/3/13
 	Obj#60 :5/3/2 5/3/14
@@ -161,6 +243,10 @@ Files to be tested:
 	Obj#100 :5/3/6 5/3/18
 	Obj#110 :5/3/7 5/3/19
 1_1_23.html
+	Dirección Individual :1.1.23
+	Número de Serie :9AFF:5FA5A88B
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/3/12 5/3/0
 	Obj#50 :5/3/13 5/3/1
 	Obj#60 :5/3/14 5/3/2
@@ -170,9 +256,17 @@ Files to be tested:
 	Obj#100 :5/3/18 5/3/6
 	Obj#110 :5/3/19 5/3/7
 1_1_24.html
+	Dirección Individual :1.1.24
+	Número de Serie :5983:911A5593
+	Programa de aplicación :HDL 2111 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#60 :5/4/0
 	Obj#90 :5/4/1
 1_1_25.html
+	Dirección Individual :1.1.25
+	Número de Serie :9AFF:5FA5A884
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/4/2
 	Obj#50 :5/4/3
 	Obj#60 :5/4/4
@@ -186,6 +280,10 @@ Files to be tested:
 	Obj#140 :5/4/12
 	Obj#150 :5/4/13
 1_1_26.html
+	Dirección Individual :1.1.26
+	Número de Serie :9AFF:5FA5A889
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/5/0
 	Obj#50 :5/5/1
 	Obj#60 :5/5/2
@@ -195,6 +293,10 @@ Files to be tested:
 	Obj#100 :5/5/6
 	Obj#110 :5/5/7
 1_1_27.html
+	Dirección Individual :1.1.27
+	Número de Serie :9AFF:5FA5A83F
+	Programa de aplicación :HDL 2047 V1.0
+	Programa de aplicación :0 0000 V0.0
 	Obj#40 :5/5/12
 	Obj#50 :5/5/13
 	Obj#60 :5/5/14
@@ -204,6 +306,10 @@ Files to be tested:
 	Obj#100 :5/5/18
 	Obj#110 :5/5/19
 1_1_28.html
+	Dirección Individual :1.1.28
+	Número de Serie :89E3:D9F0AC6C
+	Programa de aplicación :HDL 203B V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :5/3/16 3/0/0 5/3/4 5/4/6 23/7/1
 	Obj#20 :5/3/16 3/0/1 5/3/4 5/4/6 23/7/1
 	Obj#30 :5/3/16 3/0/2 5/3/4 5/4/6 23/7/1
@@ -221,6 +327,10 @@ Files to be tested:
 	Obj#150 :5/3/18 3/0/14 5/3/6 5/4/7 23/7/1
 	Obj#160 :3/0/15 5/4/9 23/7/1
 1_1_29.html
+	Dirección Individual :1.1.29
+	Número de Serie :8912:418A76BB
+	Programa de aplicación :HDL 20B5 V1.2
+	Programa de aplicación :0 0000 V0.0
 	Obj#10 :3/1/0 5/4/9 23/7/1
 	Obj#30 :3/1/1 5/4/9 23/7/1
 	Obj#50 :3/1/2 5/4/9 23/7/1
@@ -230,8 +340,16 @@ Files to be tested:
 	Obj#130 :3/1/6 5/0/28 23/7/1
 	Obj#150 :3/1/7 5/0/28 23/7/1
 1_1_30.html
+	Dirección Individual :1.1.30
+	Número de Serie :0072:310E415F
 1_1_31.html
+	Dirección Individual :1.1.31
+	Número de Serie :0072:310E40E3
 1_1_32.html
+	Dirección Individual :1.1.32
+	Número de Serie :6EB2:372E607D
+	Programa de aplicación :HDL 2089 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#111 (1 bit, -WC-U-, Baja) :8/1/0
 	Obj#112 (1 bit, -WC-U-, Baja) :8/1/1
 	Obj#113 (1 bit, -WC-U-, Baja) :8/1/2
@@ -283,6 +401,10 @@ Files to be tested:
 	Obj#159 (1 bit, -WC-U-, Baja) :8/1/48
 	Obj#160 (1 bit, -WC-U-, Baja) :8/1/49
 1_1_33.html
+	Dirección Individual :1.1.33
+	Número de Serie :6EB2:372E6077
+	Programa de aplicación :HDL 2089 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#111 (1 bit, RWC-U-, Baja) :8/2/0
 	Obj#112 (1 bit, RWC-U-, Baja) :8/2/1
 	Obj#113 (1 bit, RWC-U-, Baja) :8/2/2
@@ -334,6 +456,10 @@ Files to be tested:
 	Obj#159 (1 bit, RWC-U-, Baja) :8/2/48
 	Obj#160 (1 bit, RWC-U-, Baja) :8/2/49
 1_1_34.html
+	Dirección Individual :1.1.34
+	Número de Serie :6EB2:372E607B
+	Programa de aplicación :HDL 2089 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#111 (1 bit, -WC-U-, Baja) :8/0/0
 	Obj#112 (1 bit, -WC-U-, Baja) :8/0/1
 	Obj#113 (1 bit, -WC-U-, Baja) :8/0/2
@@ -385,6 +511,10 @@ Files to be tested:
 	Obj#159 (1 bit, -WC-U-, Baja) :8/0/48
 	Obj#160 (1 bit, -WC-U-, Baja) :8/0/49
 1_1_35.html
+	Dirección Individual :1.1.35
+	Número de Serie :6EB2:372E6028
+	Programa de aplicación :HDL 2089 V1.1
+	Programa de aplicación :0 0000 V0.0
 	Obj#111 (1 bit, -WC-U-, Baja) :8/0/0
 	Obj#112 (1 bit, -WC-U-, Baja) :8/0/1
 	Obj#113 (1 bit, -WC-U-, Baja) :8/0/2
