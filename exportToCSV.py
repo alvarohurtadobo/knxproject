@@ -113,16 +113,17 @@ if __name__ == "__main__":
                                                 'write group':groups[1],
                                                 'command':'on/off',
                                                 'device':lastAddress,
+                                                'object':row[0],
                                                 'comment':lastDevice,
                                                 'other groups':groups[2]})
                             device_number += 1
 
     with open(output_csv_name, 'w') as csvMainFile:
-        fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','comment','other groups']
+        fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','object','comment','other groups']
         writer = csv.DictWriter(csvMainFile, fieldnames=fieldnames, delimiter=',')
         writer.writeheader()
         with open(output_other_csv_name, 'w') as csvOtherFile:
-            fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','comment','other groups']
+            fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','object','comment','other groups']
             otherWriter = csv.DictWriter(csvOtherFile, fieldnames=fieldnames, delimiter=',')
             otherWriter.writeheader()
             for item in toCSVlist:

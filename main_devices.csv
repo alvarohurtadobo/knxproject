@@ -1,60 +1,60 @@
-id,name,literal,area,IP,read group,write group,value,command,device,comment,other groups
-0,-,-,Sala multiple,192.168.8.254,0/0/1,4/2/2,,on/off,1.1.1,output12channel,4/6/0
-1,-,-,Sala multiple,192.168.8.254,0/0/2,,,on/off,1.1.1,output12channel,
-2,-,-,Sala multiple,192.168.8.254,0/0/3,4/2/1,,on/off,1.1.1,output12channel,4/6/0
-3,-,-,Sala multiple,192.168.8.254,0/1/0,,,on/off,1.1.2,output12channel,
-4,-,-,Sala multiple,192.168.8.254,0/1/1,,,on/off,1.1.2,output12channel,
-5,-,-,Sala multiple,192.168.8.254,0/1/2,,,on/off,1.1.2,output12channel,
-6,-,-,Sala multiple,192.168.8.254,0/1/3,,,on/off,1.1.2,output12channel,
-14,-,-,Sala multiple,192.168.8.254,0/2/0,3/0/0,,on/off,1.1.5,output8channel,23/7/1
-15,-,-,Sala multiple,192.168.8.254,0/2/1,4/0/0,,on/off,1.1.5,output8channel,23/7/1
-16,-,-,Sala multiple,192.168.8.254,0/2/2,4/1/0,,on/off,1.1.5,output8channel,23/7/1
-17,-,-,Sala multiple,192.168.8.254,0/2/0,1/0/1,,on/off,1.1.6,output8channel,5/0/0 23/7/1
-18,-,-,Sala multiple,192.168.8.254,0/2/1,1/0/1,,on/off,1.1.6,output8channel,5/0/0 23/7/1
-19,-,-,Sala multiple,192.168.8.254,0/2/2,,,on/off,1.1.6,output8channel,
-20,-,-,Sala multiple,192.168.8.254,0/4/1,,,on/off,1.1.7,output16channel,
-21,-,-,Sala multiple,192.168.8.254,0/4/2,3/2/0,,on/off,1.1.7,output16channel,
-22,-,-,Sala multiple,192.168.8.254,0/4/3,,,on/off,1.1.7,output16channel,
-23,-,-,Sala multiple,192.168.8.254,0/4/4,,,on/off,1.1.7,output16channel,
-59,-,-,Sala multiple,192.168.8.254,2/0/0,4/3/0,,on/off,1.1.25,output12channel,23/7/1
-60,-,-,Sala multiple,192.168.8.254,2/0/1,4/3/0,,on/off,1.1.25,output12channel,23/7/1
-61,-,-,Sala multiple,192.168.8.254,2/0/2,4/3/1,,on/off,1.1.25,output12channel,23/7/1
-62,-,-,Sala multiple,192.168.8.254,1/0/0,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
-63,-,-,Sala multiple,192.168.8.254,1/0/1,4/4/4,,on/off,1.1.28,output16channel,23/7/1
-64,-,-,Sala multiple,192.168.8.254,1/0/2,4/4/4,,on/off,1.1.28,output16channel,7/0/0 23/7/1
-65,-,-,Sala multiple,192.168.8.254,1/1/0,4/4/5,,on/off,1.1.29,output16channel,23/7/1
-66,-,-,Sala multiple,192.168.8.254,1/1/1,4/4/5,,on/off,1.1.29,output16channel,23/7/1
-67,-,-,Sala multiple,192.168.8.254,1/1/2,4/4/5,,on/off,1.1.29,output16channel,23/7/1
-68,-,-,Sala multiple,192.168.8.254,1/2/0,4/4/5,,on/off,1.1.30,output16channel,23/7/1
-69,-,-,Sala multiple,192.168.8.254,1/2/1,4/4/5,,on/off,1.1.30,output16channel,23/7/1
-70,-,-,Sala multiple,192.168.8.254,1/2/2,4/4/4,,on/off,1.1.30,output16channel,23/7/1
-71,-,-,Sala multiple,192.168.8.254,1/3/0,4/4/5,,on/off,1.1.31,output16channel,23/7/1
-72,-,-,Sala multiple,192.168.8.254,1/3/1,4/4/5,,on/off,1.1.31,output16channel,23/7/1
-73,-,-,Sala multiple,192.168.8.254,1/3/2,4/4/5,,on/off,1.1.31,output16channel,23/7/1
-89,-,-,Sala vip,192.168.4.214,0/0/1,2/3/0,,on/off,1.1.1,output12channel,3/0/4 3/0/5 23/7/1
-90,-,-,Sala vip,192.168.4.214,0/0/2,2/3/1,,on/off,1.1.1,output12channel,3/0/4 3/0/5 23/7/1
-91,-,-,Sala vip,192.168.4.214,0/0/3,7/0/0,,on/off,1.1.1,output12channel,
-92,-,-,Sala vip,192.168.4.214,6/0/0,,,on/off,1.1.2,output6channelDimmer,
-93,-,-,Sala vip,192.168.4.214,6/0/1,,,on/off,1.1.2,output6channelDimmer,
-94,-,-,Sala vip,192.168.4.214,1/0/0,2/0/0,,on/off,1.1.2,output6channelDimmer,3/0/0 3/0/3 23/7/1
-138,-,-,Plaza comidas,192.168.2.86,0/0/1,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
-139,-,-,Plaza comidas,192.168.2.86,0/0/2,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
-140,-,-,Plaza comidas,192.168.2.86,0/0/3,1/0/1,,on/off,1.1.4,output12channel,5/0/0 23/7/1
-141,-,-,Plaza comidas,192.168.2.86,0/1/0,1/0/1,,on/off,1.1.5,output12channel,5/0/0 23/7/1
-142,-,-,Plaza comidas,192.168.2.86,0/1/1,1/0/1,,on/off,1.1.5,output12channel,5/0/0 23/7/1
-143,-,-,Plaza comidas,192.168.2.86,0/1/2,1/0/1,,on/off,1.1.5,output12channel,5/0/2 23/7/1
-144,-,-,Plaza comidas,192.168.2.86,0/2/0,1/0/1,,on/off,1.1.6,output4channel,5/0/0 23/7/1
-145,-,-,Plaza comidas,192.168.2.86,0/2/1,1/0/1,,on/off,1.1.6,output4channel,5/0/0 23/7/1
-146,-,-,Plaza comidas,192.168.2.86,0/2/2,,,on/off,1.1.6,output4channel,
-155,-,-,Plaza comidas,192.168.2.86,0/3/0,23/7/3,,on/off,1.1.9,output4channel,
-156,-,-,Plaza comidas,192.168.2.86,0/3/1,23/7/3,,on/off,1.1.9,output4channel,
-157,-,-,Plaza comidas,192.168.2.86,0/3/2,23/7/3,,on/off,1.1.9,output4channel,
-162,-,-,Auditorios,192.168.6.254,0/0/1,5/0/3,,on/off,1.1.1,output16channel,23/7/1
-163,-,-,Auditorios,192.168.6.254,0/0/2,5/0/3,,on/off,1.1.1,output16channel,23/7/1
-164,-,-,Auditorios,192.168.6.254,0/0/3,5/0/3,,on/off,1.1.1,output16channel,23/7/1
-165,-,-,Auditorios,192.168.6.254,0/2/0,5/0/6,,on/off,1.1.4,output8channel,5/0/18 5/5/1 5/5/13 23/7/1
-166,-,-,Auditorios,192.168.6.254,5/3/2,0/2/1,,on/off,1.1.4,output8channel,5/0/9 5/0/21 5/2/1 5/3/14 23/7/1
-167,-,-,Auditorios,192.168.6.254,0/2/2,23/7/1,,on/off,1.1.4,output8channel,
-172,-,-,Auditorios,192.168.6.254,1/0/0,5/0/19,,on/off,1.1.10,output8channel,23/0/0 23/7/1
-173,-,-,Auditorios,192.168.6.254,1/0/1,5/0/19,,on/off,1.1.10,output8channel,23/7/1
-174,-,-,Auditorios,192.168.6.254,1/0/2,5/0/19,,on/off,1.1.10,output8channel,23/0/0 23/7/1
+id,name,literal,area,IP,read group,write group,value,command,device,object,comment,other groups
+0,-,-,Sala multiple,192.168.8.254,0/0/1,4/2/2,,on/off,1.1.1,Obj#10,output12channel,4/6/0
+1,-,-,Sala multiple,192.168.8.254,0/0/2,,,on/off,1.1.1,Obj#30,output12channel,
+2,-,-,Sala multiple,192.168.8.254,0/0/3,4/2/1,,on/off,1.1.1,Obj#50,output12channel,4/6/0
+3,-,-,Sala multiple,192.168.8.254,0/1/0,,,on/off,1.1.2,Obj#10,output12channel,
+4,-,-,Sala multiple,192.168.8.254,0/1/1,,,on/off,1.1.2,Obj#30,output12channel,
+5,-,-,Sala multiple,192.168.8.254,0/1/2,,,on/off,1.1.2,Obj#50,output12channel,
+6,-,-,Sala multiple,192.168.8.254,0/1/3,,,on/off,1.1.2,Obj#70,output12channel,
+14,-,-,Sala multiple,192.168.8.254,0/2/0,3/0/0,,on/off,1.1.5,Obj#10,output8channel,23/7/1
+15,-,-,Sala multiple,192.168.8.254,0/2/1,4/0/0,,on/off,1.1.5,Obj#30,output8channel,23/7/1
+16,-,-,Sala multiple,192.168.8.254,0/2/2,4/1/0,,on/off,1.1.5,Obj#50,output8channel,23/7/1
+17,-,-,Sala multiple,192.168.8.254,0/2/0,1/0/1,,on/off,1.1.6,Obj#10,output8channel,5/0/0 23/7/1
+18,-,-,Sala multiple,192.168.8.254,0/2/1,1/0/1,,on/off,1.1.6,Obj#30,output8channel,5/0/0 23/7/1
+19,-,-,Sala multiple,192.168.8.254,0/2/2,,,on/off,1.1.6,Obj#50,output8channel,
+20,-,-,Sala multiple,192.168.8.254,0/4/1,,,on/off,1.1.7,Obj#10,output16channel,
+21,-,-,Sala multiple,192.168.8.254,0/4/2,3/2/0,,on/off,1.1.7,Obj#20,output16channel,
+22,-,-,Sala multiple,192.168.8.254,0/4/3,,,on/off,1.1.7,Obj#30,output16channel,
+23,-,-,Sala multiple,192.168.8.254,0/4/4,,,on/off,1.1.7,Obj#40,output16channel,
+59,-,-,Sala multiple,192.168.8.254,2/0/0,4/3/0,,on/off,1.1.25,Obj#10,output12channel,23/7/1
+60,-,-,Sala multiple,192.168.8.254,2/0/1,4/3/0,,on/off,1.1.25,Obj#30,output12channel,23/7/1
+61,-,-,Sala multiple,192.168.8.254,2/0/2,4/3/1,,on/off,1.1.25,Obj#50,output12channel,23/7/1
+62,-,-,Sala multiple,192.168.8.254,1/0/0,4/4/4,,on/off,1.1.28,Obj#10,output16channel,7/0/0 23/7/1
+63,-,-,Sala multiple,192.168.8.254,1/0/1,4/4/4,,on/off,1.1.28,Obj#20,output16channel,23/7/1
+64,-,-,Sala multiple,192.168.8.254,1/0/2,4/4/4,,on/off,1.1.28,Obj#30,output16channel,7/0/0 23/7/1
+65,-,-,Sala multiple,192.168.8.254,1/1/0,4/4/5,,on/off,1.1.29,Obj#10,output16channel,23/7/1
+66,-,-,Sala multiple,192.168.8.254,1/1/1,4/4/5,,on/off,1.1.29,Obj#20,output16channel,23/7/1
+67,-,-,Sala multiple,192.168.8.254,1/1/2,4/4/5,,on/off,1.1.29,Obj#30,output16channel,23/7/1
+68,-,-,Sala multiple,192.168.8.254,1/2/0,4/4/5,,on/off,1.1.30,Obj#10,output16channel,23/7/1
+69,-,-,Sala multiple,192.168.8.254,1/2/1,4/4/5,,on/off,1.1.30,Obj#20,output16channel,23/7/1
+70,-,-,Sala multiple,192.168.8.254,1/2/2,4/4/4,,on/off,1.1.30,Obj#30,output16channel,23/7/1
+71,-,-,Sala multiple,192.168.8.254,1/3/0,4/4/5,,on/off,1.1.31,Obj#10,output16channel,23/7/1
+72,-,-,Sala multiple,192.168.8.254,1/3/1,4/4/5,,on/off,1.1.31,Obj#20,output16channel,23/7/1
+73,-,-,Sala multiple,192.168.8.254,1/3/2,4/4/5,,on/off,1.1.31,Obj#30,output16channel,23/7/1
+89,-,-,Sala vip,192.168.4.214,0/0/1,2/3/0,,on/off,1.1.1,Obj#10,output12channel,3/0/4 3/0/5 23/7/1
+90,-,-,Sala vip,192.168.4.214,0/0/2,2/3/1,,on/off,1.1.1,Obj#30,output12channel,3/0/4 3/0/5 23/7/1
+91,-,-,Sala vip,192.168.4.214,0/0/3,7/0/0,,on/off,1.1.1,Obj#50,output12channel,
+92,-,-,Sala vip,192.168.4.214,6/0/0,,,on/off,1.1.2,Obj#1,output6channelDimmer,
+93,-,-,Sala vip,192.168.4.214,6/0/1,,,on/off,1.1.2,Obj#2,output6channelDimmer,
+94,-,-,Sala vip,192.168.4.214,1/0/0,2/0/0,,on/off,1.1.2,Obj#10,output6channelDimmer,3/0/0 3/0/3 23/7/1
+138,-,-,Plaza comidas,192.168.2.86,0/0/1,1/0/1,,on/off,1.1.4,Obj#10,output12channel,5/0/0 23/7/1
+139,-,-,Plaza comidas,192.168.2.86,0/0/2,1/0/1,,on/off,1.1.4,Obj#30,output12channel,5/0/0 23/7/1
+140,-,-,Plaza comidas,192.168.2.86,0/0/3,1/0/1,,on/off,1.1.4,Obj#50,output12channel,5/0/0 23/7/1
+141,-,-,Plaza comidas,192.168.2.86,0/1/0,1/0/1,,on/off,1.1.5,Obj#10,output12channel,5/0/0 23/7/1
+142,-,-,Plaza comidas,192.168.2.86,0/1/1,1/0/1,,on/off,1.1.5,Obj#30,output12channel,5/0/0 23/7/1
+143,-,-,Plaza comidas,192.168.2.86,0/1/2,1/0/1,,on/off,1.1.5,Obj#50,output12channel,5/0/2 23/7/1
+144,-,-,Plaza comidas,192.168.2.86,0/2/0,1/0/1,,on/off,1.1.6,Obj#10,output4channel,5/0/0 23/7/1
+145,-,-,Plaza comidas,192.168.2.86,0/2/1,1/0/1,,on/off,1.1.6,Obj#30,output4channel,5/0/0 23/7/1
+146,-,-,Plaza comidas,192.168.2.86,0/2/2,,,on/off,1.1.6,Obj#50,output4channel,
+155,-,-,Plaza comidas,192.168.2.86,0/3/0,23/7/3,,on/off,1.1.9,Obj#10,output4channel,
+156,-,-,Plaza comidas,192.168.2.86,0/3/1,23/7/3,,on/off,1.1.9,Obj#30,output4channel,
+157,-,-,Plaza comidas,192.168.2.86,0/3/2,23/7/3,,on/off,1.1.9,Obj#50,output4channel,
+162,-,-,Auditorios,192.168.6.254,0/0/1,5/0/3,,on/off,1.1.1,Obj#10,output16channel,23/7/1
+163,-,-,Auditorios,192.168.6.254,0/0/2,5/0/3,,on/off,1.1.1,Obj#20,output16channel,23/7/1
+164,-,-,Auditorios,192.168.6.254,0/0/3,5/0/3,,on/off,1.1.1,Obj#30,output16channel,23/7/1
+165,-,-,Auditorios,192.168.6.254,0/2/0,5/0/6,,on/off,1.1.4,Obj#10,output8channel,5/0/18 5/5/1 5/5/13 23/7/1
+166,-,-,Auditorios,192.168.6.254,5/3/2,0/2/1,,on/off,1.1.4,Obj#30,output8channel,5/0/9 5/0/21 5/2/1 5/3/14 23/7/1
+167,-,-,Auditorios,192.168.6.254,0/2/2,23/7/1,,on/off,1.1.4,Obj#50,output8channel,
+172,-,-,Auditorios,192.168.6.254,1/0/0,5/0/19,,on/off,1.1.10,Obj#10,output8channel,23/0/0 23/7/1
+173,-,-,Auditorios,192.168.6.254,1/0/1,5/0/19,,on/off,1.1.10,Obj#30,output8channel,23/7/1
+174,-,-,Auditorios,192.168.6.254,1/0/2,5/0/19,,on/off,1.1.10,Obj#50,output8channel,23/0/0 23/7/1
