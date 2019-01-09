@@ -1,0 +1,4 @@
+all time reporting: 1.1.20 -> 23/7/1
+
+#	Tiempo	Servicio técnico	Indicadores 	Prio	Dirección de origen	Nombre de origen	Dirección de destino	Nombre de destino	Enrutamiento	Tipo	DPT	Info
+263	07/01/2019 16:20:31,221	del bus		Bajo	1.1.20		23/7/1		6	GroupValueWrite		$00 | Desconectado

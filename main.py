@@ -1,10 +1,11 @@
 import os
+import csv
 import argparse
 import pandas as pd
 from bs4 import BeautifulSoup
 
 parser = argparse.ArgumentParser(description = 'Next options available')
-parser.add_argument("-f", "--folder", type=str, default = './test_data', help = "Specify folder to work with")
+parser.add_argument("-f", "--folder", type=str, default = './3_auditorios', help = "Specify folder to work with")
 args = parser.parse_args()
 
 if __name__ == "__main__":
