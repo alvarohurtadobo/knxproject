@@ -41,9 +41,9 @@ Files to be tested:
 	dev_1_1_56.html
 38 files to process
 dev_1_1_01_output12channel.html
-	Obj#10 :0/0/1 4/2/2 4/6/0
+	Obj#10 :0/0/1 4/2/2 4/6/0				Tira Led
 	Obj#30 :0/0/2
-	Obj#50 :0/0/3 4/2/1 4/6/0
+	Obj#50 :0/0/3 4/2/1 4/6/0				Recepcion ambos lados
 	Obj#70 :0/0/4
 	Obj#90 :0/0/5
 	Obj#110 :0/0/6
