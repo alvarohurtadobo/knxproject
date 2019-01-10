@@ -16,16 +16,16 @@ if __name__ == "__main__":
     for key, ipaddress in IPs.items():
         output_file_name = './' + key +'.txt'
         with open(output_file_name,'w') as output_file:
-            print('\nStarted file')
+            output_file.write('\nStarted file')
 
         output_file = open(output_file_name,'a')
-        print('\nFiles to be tested:')
+        output_file.write('\nFiles to be tested:')
         filesToRead = []
         for filename in os.listdir('./' + key):
             if '.htm' in filename:
-                print('\n\t'+filename)
+                output_file.write('\n\t'+filename)
                 filesToRead.append(filename)
-        print('\n'+str(len(filesToRead))+' files to process')
+        output_file.write('\n'+str(len(filesToRead))+' files to process')
 
         filesToRead = sorted(filesToRead)
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
         for htmlfile in filesToRead:
             lastDevice = htmlfile.split('_')[-1].split('.')[0]
-            print('\n'+htmlfile)
+            output_file.write('\n'+htmlfile)
             data = open('./' + key + '/'+htmlfile)
             soup = BeautifulSoup(data,'html')
             tables = soup.find_all('table')
@@ -50,23 +50,23 @@ if __name__ == "__main__":
                     for column in columns:
                         value = column.get_text()
                         column_list.append(value)
-                        #print('\n\tValue: '+value)
+                        #output_file.write('\n\tValue: '+value)
                     row_table_list.append(column_list)
-                    #print('\n\tCol: '+str(len(column_list)))
+                    #output_file.write('\n\tCol: '+str(len(column_list)))
             lastAddress = 'No Address'
             for row in row_table_list:
                 if row:
                     if "Individual" in row[0]:
-                        print('\n\t'+row[0]+' :'+row[1])
+                        output_file.write('\n\t'+row[0]+' :'+row[1])
                         lastAddress = row[1]
                     if "Programa de " in row[0]:
-                        print('\n\t'+row[0]+' :'+row[1])
+                        output_file.write('\n\t'+row[0]+' :'+row[1])
                     if "de Serie" in row[0]:
-                        print('\n\t'+row[0]+' :'+row[1])
+                        output_file.write('\n\t'+row[0]+' :'+row[1])
                     # Objects:
                     if 'Obj#' in row[0]:
                         if len(row) > 1:
-                            print('\n\t'+str(row))
+                            output_file.write('\n\t'+str(row))
                             all_groups = row[1].split(' ')
 
                             groups = ["","",""]
@@ -117,7 +117,8 @@ if __name__ == "__main__":
                                                 'other groups':groups[2]})
                             device_number += 1
                         else:
-                            print('Omited ',row)
+                            #output_file.write('Omited ',row)
+                            pass
 
     with open(output_csv_name, 'w') as csvMainFile:
         fieldnames = ['id', 'name','literal','area','IP','read group','write group','value','command','device','object','comment','other groups']
@@ -135,28 +136,28 @@ if __name__ == "__main__":
 
     direcciones_de_grupo = sorted(direcciones_de_grupo)
     
-    print('\n####################################################################\n')
+    output_file.write('\n####################################################################\n')
 
     grupos_principales = sorted(grupos_principales)
-    print('\nDirecciones principales:')
+    output_file.write('\nDirecciones principales:')
     for item in grupos_principales:
-        print('\n\t-\t'+str(item))
+        output_file.write('\n\t-\t'+str(item))
 
     grupos_secundarios = sorted(grupos_secundarios)
-    print('\nDirecciones secundarias:')
+    output_file.write('\nDirecciones secundarias:')
     for item in grupos_secundarios:
-        print('\n\t-\t'+str(item))
+        output_file.write('\n\t-\t'+str(item))
 
     grupos_individuales = sorted(grupos_individuales)
-    print('\nDirecciones individuales:')
+    output_file.write('\nDirecciones individuales:')
     for item in grupos_individuales:
-        print('\n\t-\t'+str(item))
+        output_file.write('\n\t-\t'+str(item))
 
-    print('\n####################################################################\n')
+    output_file.write('\n####################################################################\n')
 
-    print('\nDirecciones de grupo totales:')
+    output_file.write('\nDirecciones de grupo totales:')
     for item in direcciones_de_grupo:
-        print('\n\t-\t'+str(item))
+        output_file.write('\n\t-\t'+str(item))
 
     output_file.close()
 
