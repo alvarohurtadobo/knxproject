@@ -11,26 +11,26 @@ Files to be tested:
 	1_1_09_input4channel.html
 	1_1_10_output8channel.html
 	1_1_11_input4channel.html
-	1_1_12.html
-	1_1_13.html
-	1_1_14.html
+	1_1_12_interruptorDesconocido.html
+	1_1_13_interruptorDesconocido.html
+	1_1_14_interruptorIngreso.html
 	1_1_15.html
-	1_1_16.html
-	1_1_17.html
-	1_1_18.html
-	1_1_19.html
+	1_1_16_interruptorCafeteriaInterno.html
+	1_1_17_interruptorCafeteriaSalida.html
+	1_1_18_interruptorCafeteriaIngreso.html
+	1_1_19_output16channel.html
 	1_1_20.html
 	1_1_21.html
 	1_1_22.html
 	1_1_23.html
-	1_1_24.html
+	1_1_24_interruptorDesconocido.html
 	1_1_25.html
 	1_1_26.html
 	1_1_27.html
-	1_1_28.html
-	1_1_29.html
-	1_1_30.html
-	1_1_31.html
+	1_1_28_output16ChannelDesconocido.html
+	1_1_29_output8ChannelDesconocido.html
+	1_1_30_dispositivoSinCanales.html
+	1_1_31_dispositivoSinCanales.html
 	1_1_32.html
 	1_1_33.html
 	1_1_34.html
@@ -44,36 +44,36 @@ Files to be tested:
 	N煤mero de Serie :89E3:D9F0AC4A
 	Programa de aplicaci贸n :HDL 203B V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :0/0/1 5/0/3 23/7/1
-	Obj#20 :0/0/2 5/0/3 23/7/1
-	Obj#30 :0/0/3 5/0/3 23/7/1
-	Obj#40 :0/0/4 5/0/0 23/7/1
-	Obj#50 :0/0/5 5/0/1 23/7/1
-	Obj#60 :0/0/6 5/0/0 23/7/1
-	Obj#70 :0/0/7 5/0/1 23/7/1
-	Obj#80 :0/0/8
-	Obj#86 :4/2/4
-	Obj#90 :0/0/9 5/0/0 23/7/1
-	Obj#100 :0/0/10 5/0/0 23/7/1
-	Obj#110 :5/3/12 0/0/11 5/0/9 5/0/10 5/0/21 5/0/22 5/3/0 23/7/1
-	Obj#120 :0/0/12 5/0/11 5/0/23 5/5/3 5/5/15 23/7/1
-	Obj#130 :0/0/13 5/0/0 23/7/1
-	Obj#140 :0/0/14 5/0/1 23/7/1
-	Obj#150 :0/0/15 5/0/0 23/7/1
-	Obj#160 :0/0/16
+	['Obj#10', '0/0/1 5/0/3 23/7/1', '耚xa0', '耚xa0']
+	['Obj#20', '0/0/2 5/0/3 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '0/0/3 5/0/3 23/7/1', '耚xa0', '耚xa0']
+	['Obj#40', '0/0/4 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '0/0/5 5/0/1 23/7/1', '耚xa0', '耚xa0']
+	['Obj#60', '0/0/6 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '0/0/7 5/0/1 23/7/1', '耚xa0', '耚xa0']
+	['Obj#80', '0/0/8', '耚xa0', '耚xa0']
+	['Obj#86', '4/2/4', '耚xa0', '耚xa0']
+	['Obj#90', '0/0/9 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#100', '0/0/10 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#110', '5/3/12 0/0/11 5/0/9 5/0/10 5/0/21 5/0/22 5/3/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#120', '0/0/12 5/0/11 5/0/23 5/5/3 5/5/15 23/7/1', '耚xa0', '耚xa0']
+	['Obj#130', '0/0/13 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#140', '0/0/14 5/0/1 23/7/1', '耚xa0', '耚xa0']
+	['Obj#150', '0/0/15 5/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#160', '0/0/16', '耚xa0', '耚xa0']
 1_1_04_output8channel.html
 	Direcci贸n Individual :1.1.4
 	N煤mero de Serie :8912:418A76D7
 	Programa de aplicaci贸n :HDL 20B5 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :0/2/0 5/0/6 5/0/18 5/5/1 5/5/13 23/7/1
-	Obj#30 :5/3/2 0/2/1 5/0/9 5/0/21 5/2/1 5/3/14 23/7/1
-	Obj#50 :0/2/2 23/7/1
-	Obj#70 :0/2/3
-	Obj#90 :0/2/4
-	Obj#110 :0/2/5 23/7/1
-	Obj#130 :0/2/6 5/0/4 5/0/16 23/7/1
-	Obj#150 :0/2/7
+	['Obj#10', '0/2/0 5/0/6 5/0/18 5/5/1 5/5/13 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '5/3/2 0/2/1 5/0/9 5/0/21 5/2/1 5/3/14 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '0/2/2 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '0/2/3', '耚xa0', '耚xa0']
+	['Obj#90', '0/2/4', '耚xa0', '耚xa0']
+	['Obj#110', '0/2/5 23/7/1', '耚xa0', '耚xa0']
+	['Obj#130', '0/2/6 5/0/4 5/0/16 23/7/1', '耚xa0', '耚xa0']
+	['Obj#150', '0/2/7', '耚xa0', '耚xa0']
 1_1_05_input4channel.html
 	Direcci贸n Individual :1.1.5
 	N煤mero de Serie :640E:18D6F3D2
@@ -84,10 +84,10 @@ Files to be tested:
 	N煤mero de Serie :640E:18D6F3C7
 	Programa de aplicaci贸n :HDL 2083 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :23/7/2
-	Obj#11 :23/7/1
-	Obj#40 :23/7/2
-	Obj#41 :23/7/3
+	['Obj#10', '23/7/2', '耚xa0', '耚xa0']
+	['Obj#11', '23/7/1', '耚xa0', '耚xa0']
+	['Obj#40', '23/7/2', '耚xa0', '耚xa0']
+	['Obj#41', '23/7/3', '耚xa0', '耚xa0']
 1_1_07_input4channel.html
 	Direcci贸n Individual :1.1.7
 	N煤mero de Serie :640E:18D6F3DE
@@ -108,241 +108,241 @@ Files to be tested:
 	N煤mero de Serie :8912:418A76D3
 	Programa de aplicaci贸n :HDL 20B5 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :1/0/0 5/0/19 23/0/0 23/7/1
-	Obj#30 :1/0/1 5/0/19 23/7/1
-	Obj#50 :1/0/2 5/0/19 23/0/0 23/7/1
-	Obj#70 :1/0/3 5/0/19 23/7/1
-	Obj#90 :1/0/4 23/7/3
-	Obj#110 :1/0/5 23/7/3
-	Obj#130 :1/0/6 23/7/3
-	Obj#150 :1/0/7
+	['Obj#10', '1/0/0 5/0/19 23/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '1/0/1 5/0/19 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '1/0/2 5/0/19 23/0/0 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '1/0/3 5/0/19 23/7/1', '耚xa0', '耚xa0']
+	['Obj#90', '1/0/4 23/7/3', '耚xa0', '耚xa0']
+	['Obj#110', '1/0/5 23/7/3', '耚xa0', '耚xa0']
+	['Obj#130', '1/0/6 23/7/3', '耚xa0', '耚xa0']
+	['Obj#150', '1/0/7', '耚xa0', '耚xa0']
 1_1_11_input4channel.html
 	Direcci贸n Individual :1.1.11
 	N煤mero de Serie :640E:18D6F3C1
 	Programa de aplicaci贸n :HDL 2083 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#11 :4/0/0
-	Obj#41 :4/0/1
-	Obj#71 :4/0/2
-	Obj#101 :4/0/3
-1_1_12.html
+	['Obj#11', '4/0/0', '耚xa0', '耚xa0']
+	['Obj#41', '4/0/1', '耚xa0', '耚xa0']
+	['Obj#71', '4/0/2', '耚xa0', '耚xa0']
+	['Obj#101', '4/0/3', '耚xa0', '耚xa0']
+1_1_12_interruptorDesconocido.html
 	Direcci贸n Individual :1.1.12
 	N煤mero de Serie :5983:911A55E6
 	Programa de aplicaci贸n :HDL 2111 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#60 :5/0/0
-	Obj#90 :5/0/1
-1_1_13.html
+	['Obj#60', '5/0/0', '耚xa0', '耚xa0']
+	['Obj#90', '5/0/1', '耚xa0', '耚xa0']
+1_1_13_interruptorDesconocido.html
 	Direcci贸n Individual :1.1.13
 	N煤mero de Serie :5983:911A55EC
 	Programa de aplicaci贸n :HDL 2111 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#60 :5/0/2
-	Obj#90 :5/0/3
-1_1_14.html
+	['Obj#60', '5/0/2', '耚xa0', '耚xa0']
+	['Obj#90', '5/0/3', '耚xa0', '耚xa0']
+1_1_14_interruptorIngreso.html
 	Direcci贸n Individual :1.1.14
 	N煤mero de Serie :9AFF:5FA5A832
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/0/4
-	Obj#50 :5/0/5
-	Obj#60 :5/0/6
-	Obj#70 :5/0/7
+	['Obj#40', '5/0/4', '耚xa0', '耚xa0']
+	['Obj#50', '5/0/5', '耚xa0', '耚xa0']
+	['Obj#60', '5/0/6', '耚xa0', '耚xa0']
+	['Obj#70', '5/0/7', '耚xa0', '耚xa0']
 1_1_15.html
 	Direcci贸n Individual :1.1.15
 	N煤mero de Serie :9AFF:5FA5A839
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/0/16
-	Obj#50 :5/0/17
-	Obj#60 :5/0/18
-	Obj#70 :5/0/19
-1_1_16.html
+	['Obj#40', '5/0/16', '耚xa0', '耚xa0']
+	['Obj#50', '5/0/17', '耚xa0', '耚xa0']
+	['Obj#60', '5/0/18', '耚xa0', '耚xa0']
+	['Obj#70', '5/0/19', '耚xa0', '耚xa0']
+1_1_16_interruptorCafeteriaInterno.html
 	Direcci贸n Individual :1.1.16
 	N煤mero de Serie :9AFF:5FA5A88D
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/1/0
-	Obj#50 :5/1/1
-	Obj#60 :5/1/2
-	Obj#70 :5/1/3
-1_1_17.html
+	['Obj#40', '5/1/0', '耚xa0', '耚xa0']
+	['Obj#50', '5/1/1', '耚xa0', '耚xa0']
+	['Obj#60', '5/1/2', '耚xa0', '耚xa0']
+	['Obj#70', '5/1/3', '耚xa0', '耚xa0']
+1_1_17_interruptorCafeteriaSalida.html
 	Direcci贸n Individual :1.1.17
 	N煤mero de Serie :9AFF:5FA5A837
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/1/12
-	Obj#50 :5/1/13
-	Obj#60 :5/1/14
-	Obj#70 :5/1/15
-	Obj#80 :5/1/16
-	Obj#90 :5/1/17
-	Obj#100 :5/1/18
-	Obj#110 :5/1/19
-1_1_18.html
+	['Obj#40', '5/1/12', '耚xa0', '耚xa0']
+	['Obj#50', '5/1/13', '耚xa0', '耚xa0']
+	['Obj#60', '5/1/14', '耚xa0', '耚xa0']
+	['Obj#70', '5/1/15', '耚xa0', '耚xa0']
+	['Obj#80', '5/1/16', '耚xa0', '耚xa0']
+	['Obj#90', '5/1/17', '耚xa0', '耚xa0']
+	['Obj#100', '5/1/18', '耚xa0', '耚xa0']
+	['Obj#110', '5/1/19', '耚xa0', '耚xa0']
+1_1_18_interruptorCafeteriaIngreso.html
 	Direcci贸n Individual :1.1.18
 	N煤mero de Serie :9AFF:5FA5A88C
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/1/24
-	Obj#50 :5/1/25
-	Obj#60 :5/1/26
-	Obj#70 :5/1/27
-	Obj#80 :5/1/28
-	Obj#90 :5/1/29
-	Obj#100 :5/1/30
-	Obj#110 :5/1/31
-1_1_19.html
+	['Obj#40', '5/1/24', '耚xa0', '耚xa0']
+	['Obj#50', '5/1/25', '耚xa0', '耚xa0']
+	['Obj#60', '5/1/26', '耚xa0', '耚xa0']
+	['Obj#70', '5/1/27', '耚xa0', '耚xa0']
+	['Obj#80', '5/1/28', '耚xa0', '耚xa0']
+	['Obj#90', '5/1/29', '耚xa0', '耚xa0']
+	['Obj#100', '5/1/30', '耚xa0', '耚xa0']
+	['Obj#110', '5/1/31', '耚xa0', '耚xa0']
+1_1_19_output16channel.html
 	Direcci贸n Individual :1.1.19
 	N煤mero de Serie :89E3:D9F0AC4F
 	Programa de aplicaci贸n :HDL 203B V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :2/0/0 5/1/3 5/1/15 23/7/1
-	Obj#20 :2/0/1 5/1/1 5/1/13 5/1/25 23/7/1
-	Obj#30 :2/0/2 5/1/3 5/1/15 23/7/1
-	Obj#40 :2/0/3 5/1/3 5/1/15 23/7/1
-	Obj#50 :2/0/4 5/1/3 5/1/15
-	Obj#60 :2/0/5 5/1/0 5/1/12 5/1/24 23/7/1
-	Obj#70 :2/0/6 5/1/2 5/1/14 5/1/26 23/7/1
-	Obj#80 :2/0/7 5/1/3 5/1/15 23/7/1
-	Obj#90 :2/0/8 23/7/3
-	Obj#100 :2/0/9 23/7/3
-	Obj#110 :2/0/10 23/7/3
-	Obj#120 :2/0/11 23/7/3
-	Obj#130 :4/2/3 2/0/12
-	Obj#140 :2/0/13
-	Obj#150 :2/0/14
-	Obj#160 :2/0/15 23/7/1
+	['Obj#10', '2/0/0 5/1/3 5/1/15 23/7/1', '耚xa0', '耚xa0']
+	['Obj#20', '2/0/1 5/1/1 5/1/13 5/1/25 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '2/0/2 5/1/3 5/1/15 23/7/1', '耚xa0', '耚xa0']
+	['Obj#40', '2/0/3 5/1/3 5/1/15 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '2/0/4 5/1/3 5/1/15', '耚xa0', '耚xa0']
+	['Obj#60', '2/0/5 5/1/0 5/1/12 5/1/24 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '2/0/6 5/1/2 5/1/14 5/1/26 23/7/1', '耚xa0', '耚xa0']
+	['Obj#80', '2/0/7 5/1/3 5/1/15 23/7/1', '耚xa0', '耚xa0']
+	['Obj#90', '2/0/8 23/7/3', '耚xa0', '耚xa0']
+	['Obj#100', '2/0/9 23/7/3', '耚xa0', '耚xa0']
+	['Obj#110', '2/0/10 23/7/3', '耚xa0', '耚xa0']
+	['Obj#120', '2/0/11 23/7/3', '耚xa0', '耚xa0']
+	['Obj#130', '4/2/3 2/0/12', '耚xa0', '耚xa0']
+	['Obj#140', '2/0/13', '耚xa0', '耚xa0']
+	['Obj#150', '2/0/14', '耚xa0', '耚xa0']
+	['Obj#160', '2/0/15 23/7/1', '耚xa0', '耚xa0']
 1_1_20.html
 	Direcci贸n Individual :1.1.20
 	N煤mero de Serie :640E:18D6F3CF
 	Programa de aplicaci贸n :HDL 2083 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#11 :4/1/0
-	Obj#41 :4/1/1
-	Obj#71 :4/1/2
-	Obj#101 :4/1/3
+	['Obj#11', '4/1/0', '耚xa0', '耚xa0']
+	['Obj#41', '4/1/1', '耚xa0', '耚xa0']
+	['Obj#71', '4/1/2', '耚xa0', '耚xa0']
+	['Obj#101', '4/1/3', '耚xa0', '耚xa0']
 1_1_21.html
 	Direcci贸n Individual :1.1.21
 	N煤mero de Serie :5983:911A5591
 	Programa de aplicaci贸n :HDL 2111 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#60 :5/2/0
-	Obj#90 :5/2/1
+	['Obj#60', '5/2/0', '耚xa0', '耚xa0']
+	['Obj#90', '5/2/1', '耚xa0', '耚xa0']
 1_1_22.html
 	Direcci贸n Individual :1.1.22
 	N煤mero de Serie :9AFF:5FA5A838
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/3/0 5/3/12
-	Obj#50 :5/3/1 5/3/13
-	Obj#60 :5/3/2 5/3/14
-	Obj#70 :5/3/3 5/3/15
-	Obj#80 :5/3/4 5/3/16
-	Obj#90 :5/3/5 5/3/17
-	Obj#100 :5/3/6 5/3/18
-	Obj#110 :5/3/7 5/3/19
+	['Obj#40', '5/3/0 5/3/12', '耚xa0', '耚xa0']
+	['Obj#50', '5/3/1 5/3/13', '耚xa0', '耚xa0']
+	['Obj#60', '5/3/2 5/3/14', '耚xa0', '耚xa0']
+	['Obj#70', '5/3/3 5/3/15', '耚xa0', '耚xa0']
+	['Obj#80', '5/3/4 5/3/16', '耚xa0', '耚xa0']
+	['Obj#90', '5/3/5 5/3/17', '耚xa0', '耚xa0']
+	['Obj#100', '5/3/6 5/3/18', '耚xa0', '耚xa0']
+	['Obj#110', '5/3/7 5/3/19', '耚xa0', '耚xa0']
 1_1_23.html
 	Direcci贸n Individual :1.1.23
 	N煤mero de Serie :9AFF:5FA5A88B
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/3/12 5/3/0
-	Obj#50 :5/3/13 5/3/1
-	Obj#60 :5/3/14 5/3/2
-	Obj#70 :5/3/15 5/3/3
-	Obj#80 :5/3/16 5/3/4
-	Obj#90 :5/3/17 5/3/5
-	Obj#100 :5/3/18 5/3/6
-	Obj#110 :5/3/19 5/3/7
-1_1_24.html
+	['Obj#40', '5/3/12 5/3/0', '耚xa0', '耚xa0']
+	['Obj#50', '5/3/13 5/3/1', '耚xa0', '耚xa0']
+	['Obj#60', '5/3/14 5/3/2', '耚xa0', '耚xa0']
+	['Obj#70', '5/3/15 5/3/3', '耚xa0', '耚xa0']
+	['Obj#80', '5/3/16 5/3/4', '耚xa0', '耚xa0']
+	['Obj#90', '5/3/17 5/3/5', '耚xa0', '耚xa0']
+	['Obj#100', '5/3/18 5/3/6', '耚xa0', '耚xa0']
+	['Obj#110', '5/3/19 5/3/7', '耚xa0', '耚xa0']
+1_1_24_interruptorDesconocido.html
 	Direcci贸n Individual :1.1.24
 	N煤mero de Serie :5983:911A5593
 	Programa de aplicaci贸n :HDL 2111 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#60 :5/4/0
-	Obj#90 :5/4/1
+	['Obj#60', '5/4/0', '耚xa0', '耚xa0']
+	['Obj#90', '5/4/1', '耚xa0', '耚xa0']
 1_1_25.html
 	Direcci贸n Individual :1.1.25
 	N煤mero de Serie :9AFF:5FA5A884
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/4/2
-	Obj#50 :5/4/3
-	Obj#60 :5/4/4
-	Obj#70 :5/4/5
-	Obj#80 :5/3/4 5/4/6
-	Obj#90 :5/3/5 5/4/7
-	Obj#100 :5/3/6 5/4/8
-	Obj#110 :5/4/9
-	Obj#120 :5/0/28
-	Obj#130 :5/4/11
-	Obj#140 :5/4/12
-	Obj#150 :5/4/13
+	['Obj#40', '5/4/2', '耚xa0', '耚xa0']
+	['Obj#50', '5/4/3', '耚xa0', '耚xa0']
+	['Obj#60', '5/4/4', '耚xa0', '耚xa0']
+	['Obj#70', '5/4/5', '耚xa0', '耚xa0']
+	['Obj#80', '5/3/4 5/4/6', '耚xa0', '耚xa0']
+	['Obj#90', '5/3/5 5/4/7', '耚xa0', '耚xa0']
+	['Obj#100', '5/3/6 5/4/8', '耚xa0', '耚xa0']
+	['Obj#110', '5/4/9', '耚xa0', '耚xa0']
+	['Obj#120', '5/0/28', '耚xa0', '耚xa0']
+	['Obj#130', '5/4/11', '耚xa0', '耚xa0']
+	['Obj#140', '5/4/12', '耚xa0', '耚xa0']
+	['Obj#150', '5/4/13', '耚xa0', '耚xa0']
 1_1_26.html
 	Direcci贸n Individual :1.1.26
 	N煤mero de Serie :9AFF:5FA5A889
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/5/0
-	Obj#50 :5/5/1
-	Obj#60 :5/5/2
-	Obj#70 :5/5/3
-	Obj#80 :5/0/28 5/5/4
-	Obj#90 :5/5/5
-	Obj#100 :5/5/6
-	Obj#110 :5/5/7
+	['Obj#40', '5/5/0', '耚xa0', '耚xa0']
+	['Obj#50', '5/5/1', '耚xa0', '耚xa0']
+	['Obj#60', '5/5/2', '耚xa0', '耚xa0']
+	['Obj#70', '5/5/3', '耚xa0', '耚xa0']
+	['Obj#80', '5/0/28 5/5/4', '耚xa0', '耚xa0']
+	['Obj#90', '5/5/5', '耚xa0', '耚xa0']
+	['Obj#100', '5/5/6', '耚xa0', '耚xa0']
+	['Obj#110', '5/5/7', '耚xa0', '耚xa0']
 1_1_27.html
 	Direcci贸n Individual :1.1.27
 	N煤mero de Serie :9AFF:5FA5A83F
 	Programa de aplicaci贸n :HDL 2047 V1.0
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#40 :5/5/12
-	Obj#50 :5/5/13
-	Obj#60 :5/5/14
-	Obj#70 :5/5/15
-	Obj#80 :5/0/28 5/5/16
-	Obj#90 :5/5/17
-	Obj#100 :5/5/18
-	Obj#110 :5/5/19
-1_1_28.html
+	['Obj#40', '5/5/12', '耚xa0', '耚xa0']
+	['Obj#50', '5/5/13', '耚xa0', '耚xa0']
+	['Obj#60', '5/5/14', '耚xa0', '耚xa0']
+	['Obj#70', '5/5/15', '耚xa0', '耚xa0']
+	['Obj#80', '5/0/28 5/5/16', '耚xa0', '耚xa0']
+	['Obj#90', '5/5/17', '耚xa0', '耚xa0']
+	['Obj#100', '5/5/18', '耚xa0', '耚xa0']
+	['Obj#110', '5/5/19', '耚xa0', '耚xa0']
+1_1_28_output16ChannelDesconocido.html
 	Direcci贸n Individual :1.1.28
 	N煤mero de Serie :89E3:D9F0AC6C
 	Programa de aplicaci贸n :HDL 203B V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :5/3/16 3/0/0 5/3/4 5/4/6 23/7/1
-	Obj#20 :5/3/16 3/0/1 5/3/4 5/4/6 23/7/1
-	Obj#30 :5/3/16 3/0/2 5/3/4 5/4/6 23/7/1
-	Obj#40 :5/3/16 3/0/1 3/0/3 5/3/4 5/4/6 23/7/1
-	Obj#50 :5/3/16 3/0/4 5/3/4 5/4/6 23/7/1
-	Obj#60 :5/3/16 3/0/5 5/3/4 5/4/6 23/7/1
-	Obj#70 :5/3/17 3/0/6 5/3/5 5/4/7 23/7/1
-	Obj#80 :5/3/17 3/0/7 5/3/5 5/4/7 23/7/1
-	Obj#90 :5/3/18 3/0/8 5/3/6 5/4/8 23/7/1
-	Obj#100 :5/3/18 3/0/9 5/3/6 5/4/8 23/7/1
-	Obj#110 :5/3/18 3/0/10 5/3/6 5/4/8 23/7/1
-	Obj#120 :5/3/18 3/0/11 5/3/6 5/4/8 23/7/1
-	Obj#130 :5/3/18 3/0/12 5/3/6 5/4/8 23/7/1
-	Obj#140 :5/3/18 3/0/13 5/3/6 5/4/8 23/7/1
-	Obj#150 :5/3/18 3/0/14 5/3/6 5/4/7 23/7/1
-	Obj#160 :3/0/15 5/4/9 23/7/1
-1_1_29.html
+	['Obj#10', '5/3/16 3/0/0 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#20', '5/3/16 3/0/1 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '5/3/16 3/0/2 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#40', '5/3/16 3/0/1 3/0/3 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '5/3/16 3/0/4 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#60', '5/3/16 3/0/5 5/3/4 5/4/6 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '5/3/17 3/0/6 5/3/5 5/4/7 23/7/1', '耚xa0', '耚xa0']
+	['Obj#80', '5/3/17 3/0/7 5/3/5 5/4/7 23/7/1', '耚xa0', '耚xa0']
+	['Obj#90', '5/3/18 3/0/8 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#100', '5/3/18 3/0/9 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#110', '5/3/18 3/0/10 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#120', '5/3/18 3/0/11 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#130', '5/3/18 3/0/12 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#140', '5/3/18 3/0/13 5/3/6 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#150', '5/3/18 3/0/14 5/3/6 5/4/7 23/7/1', '耚xa0', '耚xa0']
+	['Obj#160', '3/0/15 5/4/9 23/7/1', '耚xa0', '耚xa0']
+1_1_29_output8ChannelDesconocido.html
 	Direcci贸n Individual :1.1.29
 	N煤mero de Serie :8912:418A76BB
 	Programa de aplicaci贸n :HDL 20B5 V1.2
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#10 :3/1/0 5/4/9 23/7/1
-	Obj#30 :3/1/1 5/4/9 23/7/1
-	Obj#50 :3/1/2 5/4/9 23/7/1
-	Obj#70 :3/1/3 5/0/28 23/7/1
-	Obj#90 :3/1/4 5/4/8 23/7/1
-	Obj#110 :3/1/5 5/4/8 23/7/1
-	Obj#130 :3/1/6 5/0/28 23/7/1
-	Obj#150 :3/1/7 5/0/28 23/7/1
-1_1_30.html
+	['Obj#10', '3/1/0 5/4/9 23/7/1', '耚xa0', '耚xa0']
+	['Obj#30', '3/1/1 5/4/9 23/7/1', '耚xa0', '耚xa0']
+	['Obj#50', '3/1/2 5/4/9 23/7/1', '耚xa0', '耚xa0']
+	['Obj#70', '3/1/3 5/0/28 23/7/1', '耚xa0', '耚xa0']
+	['Obj#90', '3/1/4 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#110', '3/1/5 5/4/8 23/7/1', '耚xa0', '耚xa0']
+	['Obj#130', '3/1/6 5/0/28 23/7/1', '耚xa0', '耚xa0']
+	['Obj#150', '3/1/7 5/0/28 23/7/1', '耚xa0', '耚xa0']
+1_1_30_dispositivoSinCanales.html
 	Direcci贸n Individual :1.1.30
 	N煤mero de Serie :0072:310E415F
-1_1_31.html
+1_1_31_dispositivoSinCanales.html
 	Direcci贸n Individual :1.1.31
 	N煤mero de Serie :0072:310E40E3
 1_1_32.html
@@ -350,221 +350,221 @@ Files to be tested:
 	N煤mero de Serie :6EB2:372E607D
 	Programa de aplicaci贸n :HDL 2089 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#111 (1 bit, -WC-U-, Baja) :8/1/0
-	Obj#112 (1 bit, -WC-U-, Baja) :8/1/1
-	Obj#113 (1 bit, -WC-U-, Baja) :8/1/2
-	Obj#114 (1 bit, -WC-U-, Baja) :8/1/3
-	Obj#115 (1 bit, -WC-U-, Baja) :8/1/4
-	Obj#116 (1 bit, -WC-U-, Baja) :8/1/5
-	Obj#117 (1 bit, -WC-U-, Baja) :8/1/6
-	Obj#118 (1 bit, -WC-U-, Baja) :8/1/7
-	Obj#119 (1 bit, -WC-U-, Baja) :8/1/8
-	Obj#120 (1 bit, -WC-U-, Baja) :8/1/9
-	Obj#121 (1 bit, -WC-U-, Baja) :8/1/10
-	Obj#122 (1 bit, -WC-U-, Baja) :8/1/11
-	Obj#123 (1 bit, -WC-U-, Baja) :8/1/12
-	Obj#124 (1 bit, -WC-U-, Baja) :8/1/13
-	Obj#125 (1 bit, -WC-U-, Baja) :8/1/14
-	Obj#126 (1 bit, -WC-U-, Baja) :8/1/15
-	Obj#127 (1 bit, -WC-U-, Baja) :8/1/16
-	Obj#128 (1 bit, -WC-U-, Baja) :8/1/17
-	Obj#129 (1 bit, -WC-U-, Baja) :8/1/18
-	Obj#130 (1 bit, -WC-U-, Baja) :8/1/19
-	Obj#131 (1 bit, -WC-U-, Baja) :8/1/20
-	Obj#132 (1 bit, -WC-U-, Baja) :8/1/21
-	Obj#133 (1 bit, -WC-U-, Baja) :8/1/22
-	Obj#134 (1 bit, -WC-U-, Baja) :8/1/23
-	Obj#135 (1 bit, -WC-U-, Baja) :8/1/24
-	Obj#136 (1 bit, -WC-U-, Baja) :8/1/25
-	Obj#137 (1 bit, -WC-U-, Baja) :8/1/26
-	Obj#138 (1 bit, -WC-U-, Baja) :8/1/27
-	Obj#139 (1 bit, -WC-U-, Baja) :8/1/28
-	Obj#140 (1 bit, -WC-U-, Baja) :8/1/29
-	Obj#141 (1 bit, -WC-U-, Baja) :8/1/30
-	Obj#142 (1 bit, -WC-U-, Baja) :8/1/31
-	Obj#143 (1 bit, -WC-U-, Baja) :8/1/32
-	Obj#144 (1 bit, -WC-U-, Baja) :8/1/33
-	Obj#145 (1 bit, -WC-U-, Baja) :8/1/34
-	Obj#146 (1 bit, -WC-U-, Baja) :8/1/35
-	Obj#147 (1 bit, -WC-U-, Baja) :8/1/36
-	Obj#148 (1 bit, -WC-U-, Baja) :8/1/37
-	Obj#149 (1 bit, -WC-U-, Baja) :8/1/38
-	Obj#150 (1 bit, -WC-U-, Baja) :8/1/39
-	Obj#151 (1 bit, -WC-U-, Baja) :8/1/40
-	Obj#152 (1 bit, -WC-U-, Baja) :8/1/41
-	Obj#153 (1 bit, -WC-U-, Baja) :8/1/42
-	Obj#154 (1 bit, -WC-U-, Baja) :8/1/43
-	Obj#155 (1 bit, -WC-U-, Baja) :8/1/44
-	Obj#156 (1 bit, -WC-U-, Baja) :8/1/45
-	Obj#157 (1 bit, -WC-U-, Baja) :8/1/46
-	Obj#158 (1 bit, -WC-U-, Baja) :8/1/47
-	Obj#159 (1 bit, -WC-U-, Baja) :8/1/48
-	Obj#160 (1 bit, -WC-U-, Baja) :8/1/49
+	['Obj#111 (1 bit, -WC-U-, Baja)', '8/1/0', '耚xa0', '耚xa0']
+	['Obj#112 (1 bit, -WC-U-, Baja)', '8/1/1', '耚xa0', '耚xa0']
+	['Obj#113 (1 bit, -WC-U-, Baja)', '8/1/2', '耚xa0', '耚xa0']
+	['Obj#114 (1 bit, -WC-U-, Baja)', '8/1/3', '耚xa0', '耚xa0']
+	['Obj#115 (1 bit, -WC-U-, Baja)', '8/1/4', '耚xa0', '耚xa0']
+	['Obj#116 (1 bit, -WC-U-, Baja)', '8/1/5', '耚xa0', '耚xa0']
+	['Obj#117 (1 bit, -WC-U-, Baja)', '8/1/6', '耚xa0', '耚xa0']
+	['Obj#118 (1 bit, -WC-U-, Baja)', '8/1/7', '耚xa0', '耚xa0']
+	['Obj#119 (1 bit, -WC-U-, Baja)', '8/1/8', '耚xa0', '耚xa0']
+	['Obj#120 (1 bit, -WC-U-, Baja)', '8/1/9', '耚xa0', '耚xa0']
+	['Obj#121 (1 bit, -WC-U-, Baja)', '8/1/10', '耚xa0', '耚xa0']
+	['Obj#122 (1 bit, -WC-U-, Baja)', '8/1/11', '耚xa0', '耚xa0']
+	['Obj#123 (1 bit, -WC-U-, Baja)', '8/1/12', '耚xa0', '耚xa0']
+	['Obj#124 (1 bit, -WC-U-, Baja)', '8/1/13', '耚xa0', '耚xa0']
+	['Obj#125 (1 bit, -WC-U-, Baja)', '8/1/14', '耚xa0', '耚xa0']
+	['Obj#126 (1 bit, -WC-U-, Baja)', '8/1/15', '耚xa0', '耚xa0']
+	['Obj#127 (1 bit, -WC-U-, Baja)', '8/1/16', '耚xa0', '耚xa0']
+	['Obj#128 (1 bit, -WC-U-, Baja)', '8/1/17', '耚xa0', '耚xa0']
+	['Obj#129 (1 bit, -WC-U-, Baja)', '8/1/18', '耚xa0', '耚xa0']
+	['Obj#130 (1 bit, -WC-U-, Baja)', '8/1/19', '耚xa0', '耚xa0']
+	['Obj#131 (1 bit, -WC-U-, Baja)', '8/1/20', '耚xa0', '耚xa0']
+	['Obj#132 (1 bit, -WC-U-, Baja)', '8/1/21', '耚xa0', '耚xa0']
+	['Obj#133 (1 bit, -WC-U-, Baja)', '8/1/22', '耚xa0', '耚xa0']
+	['Obj#134 (1 bit, -WC-U-, Baja)', '8/1/23', '耚xa0', '耚xa0']
+	['Obj#135 (1 bit, -WC-U-, Baja)', '8/1/24', '耚xa0', '耚xa0']
+	['Obj#136 (1 bit, -WC-U-, Baja)', '8/1/25', '耚xa0', '耚xa0']
+	['Obj#137 (1 bit, -WC-U-, Baja)', '8/1/26', '耚xa0', '耚xa0']
+	['Obj#138 (1 bit, -WC-U-, Baja)', '8/1/27', '耚xa0', '耚xa0']
+	['Obj#139 (1 bit, -WC-U-, Baja)', '8/1/28', '耚xa0', '耚xa0']
+	['Obj#140 (1 bit, -WC-U-, Baja)', '8/1/29', '耚xa0', '耚xa0']
+	['Obj#141 (1 bit, -WC-U-, Baja)', '8/1/30', '耚xa0', '耚xa0']
+	['Obj#142 (1 bit, -WC-U-, Baja)', '8/1/31', '耚xa0', '耚xa0']
+	['Obj#143 (1 bit, -WC-U-, Baja)', '8/1/32', '耚xa0', '耚xa0']
+	['Obj#144 (1 bit, -WC-U-, Baja)', '8/1/33', '耚xa0', '耚xa0']
+	['Obj#145 (1 bit, -WC-U-, Baja)', '8/1/34', '耚xa0', '耚xa0']
+	['Obj#146 (1 bit, -WC-U-, Baja)', '8/1/35', '耚xa0', '耚xa0']
+	['Obj#147 (1 bit, -WC-U-, Baja)', '8/1/36', '耚xa0', '耚xa0']
+	['Obj#148 (1 bit, -WC-U-, Baja)', '8/1/37', '耚xa0', '耚xa0']
+	['Obj#149 (1 bit, -WC-U-, Baja)', '8/1/38', '耚xa0', '耚xa0']
+	['Obj#150 (1 bit, -WC-U-, Baja)', '8/1/39', '耚xa0', '耚xa0']
+	['Obj#151 (1 bit, -WC-U-, Baja)', '8/1/40', '耚xa0', '耚xa0']
+	['Obj#152 (1 bit, -WC-U-, Baja)', '8/1/41', '耚xa0', '耚xa0']
+	['Obj#153 (1 bit, -WC-U-, Baja)', '8/1/42', '耚xa0', '耚xa0']
+	['Obj#154 (1 bit, -WC-U-, Baja)', '8/1/43', '耚xa0', '耚xa0']
+	['Obj#155 (1 bit, -WC-U-, Baja)', '8/1/44', '耚xa0', '耚xa0']
+	['Obj#156 (1 bit, -WC-U-, Baja)', '8/1/45', '耚xa0', '耚xa0']
+	['Obj#157 (1 bit, -WC-U-, Baja)', '8/1/46', '耚xa0', '耚xa0']
+	['Obj#158 (1 bit, -WC-U-, Baja)', '8/1/47', '耚xa0', '耚xa0']
+	['Obj#159 (1 bit, -WC-U-, Baja)', '8/1/48', '耚xa0', '耚xa0']
+	['Obj#160 (1 bit, -WC-U-, Baja)', '8/1/49', '耚xa0', '耚xa0']
 1_1_33.html
 	Direcci贸n Individual :1.1.33
 	N煤mero de Serie :6EB2:372E6077
 	Programa de aplicaci贸n :HDL 2089 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#111 (1 bit, RWC-U-, Baja) :8/2/0
-	Obj#112 (1 bit, RWC-U-, Baja) :8/2/1
-	Obj#113 (1 bit, RWC-U-, Baja) :8/2/2
-	Obj#114 (1 bit, RWC-U-, Baja) :8/2/3
-	Obj#115 (1 bit, RWC-U-, Baja) :8/2/4
-	Obj#116 (1 bit, RWC-U-, Baja) :8/2/5
-	Obj#117 (1 bit, RWC-U-, Baja) :8/2/6
-	Obj#118 (1 bit, RWC-U-, Baja) :8/2/7
-	Obj#119 (1 bit, RWC-U-, Baja) :8/2/8
-	Obj#120 (1 bit, RWC-U-, Baja) :8/2/9
-	Obj#121 (1 bit, RWC-U-, Baja) :8/2/10
-	Obj#122 (1 bit, RWC-U-, Baja) :8/2/11
-	Obj#123 (1 bit, RWC-U-, Baja) :8/2/12
-	Obj#124 (1 bit, RWC-U-, Baja) :8/2/13
-	Obj#125 (1 bit, RWC-U-, Baja) :8/2/14
-	Obj#126 (1 bit, RWC-U-, Baja) :8/2/15
-	Obj#127 (1 bit, RWC-U-, Baja) :8/2/16
-	Obj#128 (1 bit, RWC-U-, Baja) :8/2/17
-	Obj#129 (1 bit, RWC-U-, Baja) :8/2/18
-	Obj#130 (1 bit, RWC-U-, Baja) :8/2/19
-	Obj#131 (1 bit, RWC-U-, Baja) :8/2/20
-	Obj#132 (1 bit, RWC-U-, Baja) :8/2/21
-	Obj#133 (1 bit, RWC-U-, Baja) :8/2/22
-	Obj#134 (1 bit, RWC-U-, Baja) :8/2/23
-	Obj#135 (1 bit, RWC-U-, Baja) :8/2/24
-	Obj#136 (1 bit, RWC-U-, Baja) :8/2/25
-	Obj#137 (1 bit, RWC-U-, Baja) :8/2/26
-	Obj#138 (1 bit, RWC-U-, Baja) :8/2/27
-	Obj#139 (1 bit, RWC-U-, Baja) :8/2/28
-	Obj#140 (1 bit, RWC-U-, Baja) :8/2/29
-	Obj#141 (1 bit, RWC-U-, Baja) :8/2/30
-	Obj#142 (1 bit, RWC-U-, Baja) :8/2/31
-	Obj#143 (1 bit, RWC-U-, Baja) :8/2/32
-	Obj#144 (1 bit, RWC-U-, Baja) :8/2/33
-	Obj#145 (1 bit, RWC-U-, Baja) :8/2/34
-	Obj#146 (1 bit, RWC-U-, Baja) :8/2/35
-	Obj#147 (1 bit, RWC-U-, Baja) :8/2/36
-	Obj#148 (1 bit, RWC-U-, Baja) :8/2/37
-	Obj#149 (1 bit, RWC-U-, Baja) :8/2/38
-	Obj#150 (1 bit, RWC-U-, Baja) :8/2/39
-	Obj#151 (1 bit, RWC-U-, Baja) :8/2/40
-	Obj#152 (1 bit, RWC-U-, Baja) :8/2/41
-	Obj#153 (1 bit, RWC-U-, Baja) :8/2/42
-	Obj#154 (1 bit, RWC-U-, Baja) :8/2/43
-	Obj#155 (1 bit, RWC-U-, Baja) :8/2/44
-	Obj#156 (1 bit, RWC-U-, Baja) :8/2/45
-	Obj#157 (1 bit, RWC-U-, Baja) :8/2/46
-	Obj#158 (1 bit, RWC-U-, Baja) :8/2/47
-	Obj#159 (1 bit, RWC-U-, Baja) :8/2/48
-	Obj#160 (1 bit, RWC-U-, Baja) :8/2/49
+	['Obj#111 (1 bit, RWC-U-, Baja)', '8/2/0', '耚xa0', '耚xa0']
+	['Obj#112 (1 bit, RWC-U-, Baja)', '8/2/1', '耚xa0', '耚xa0']
+	['Obj#113 (1 bit, RWC-U-, Baja)', '8/2/2', '耚xa0', '耚xa0']
+	['Obj#114 (1 bit, RWC-U-, Baja)', '8/2/3', '耚xa0', '耚xa0']
+	['Obj#115 (1 bit, RWC-U-, Baja)', '8/2/4', '耚xa0', '耚xa0']
+	['Obj#116 (1 bit, RWC-U-, Baja)', '8/2/5', '耚xa0', '耚xa0']
+	['Obj#117 (1 bit, RWC-U-, Baja)', '8/2/6', '耚xa0', '耚xa0']
+	['Obj#118 (1 bit, RWC-U-, Baja)', '8/2/7', '耚xa0', '耚xa0']
+	['Obj#119 (1 bit, RWC-U-, Baja)', '8/2/8', '耚xa0', '耚xa0']
+	['Obj#120 (1 bit, RWC-U-, Baja)', '8/2/9', '耚xa0', '耚xa0']
+	['Obj#121 (1 bit, RWC-U-, Baja)', '8/2/10', '耚xa0', '耚xa0']
+	['Obj#122 (1 bit, RWC-U-, Baja)', '8/2/11', '耚xa0', '耚xa0']
+	['Obj#123 (1 bit, RWC-U-, Baja)', '8/2/12', '耚xa0', '耚xa0']
+	['Obj#124 (1 bit, RWC-U-, Baja)', '8/2/13', '耚xa0', '耚xa0']
+	['Obj#125 (1 bit, RWC-U-, Baja)', '8/2/14', '耚xa0', '耚xa0']
+	['Obj#126 (1 bit, RWC-U-, Baja)', '8/2/15', '耚xa0', '耚xa0']
+	['Obj#127 (1 bit, RWC-U-, Baja)', '8/2/16', '耚xa0', '耚xa0']
+	['Obj#128 (1 bit, RWC-U-, Baja)', '8/2/17', '耚xa0', '耚xa0']
+	['Obj#129 (1 bit, RWC-U-, Baja)', '8/2/18', '耚xa0', '耚xa0']
+	['Obj#130 (1 bit, RWC-U-, Baja)', '8/2/19', '耚xa0', '耚xa0']
+	['Obj#131 (1 bit, RWC-U-, Baja)', '8/2/20', '耚xa0', '耚xa0']
+	['Obj#132 (1 bit, RWC-U-, Baja)', '8/2/21', '耚xa0', '耚xa0']
+	['Obj#133 (1 bit, RWC-U-, Baja)', '8/2/22', '耚xa0', '耚xa0']
+	['Obj#134 (1 bit, RWC-U-, Baja)', '8/2/23', '耚xa0', '耚xa0']
+	['Obj#135 (1 bit, RWC-U-, Baja)', '8/2/24', '耚xa0', '耚xa0']
+	['Obj#136 (1 bit, RWC-U-, Baja)', '8/2/25', '耚xa0', '耚xa0']
+	['Obj#137 (1 bit, RWC-U-, Baja)', '8/2/26', '耚xa0', '耚xa0']
+	['Obj#138 (1 bit, RWC-U-, Baja)', '8/2/27', '耚xa0', '耚xa0']
+	['Obj#139 (1 bit, RWC-U-, Baja)', '8/2/28', '耚xa0', '耚xa0']
+	['Obj#140 (1 bit, RWC-U-, Baja)', '8/2/29', '耚xa0', '耚xa0']
+	['Obj#141 (1 bit, RWC-U-, Baja)', '8/2/30', '耚xa0', '耚xa0']
+	['Obj#142 (1 bit, RWC-U-, Baja)', '8/2/31', '耚xa0', '耚xa0']
+	['Obj#143 (1 bit, RWC-U-, Baja)', '8/2/32', '耚xa0', '耚xa0']
+	['Obj#144 (1 bit, RWC-U-, Baja)', '8/2/33', '耚xa0', '耚xa0']
+	['Obj#145 (1 bit, RWC-U-, Baja)', '8/2/34', '耚xa0', '耚xa0']
+	['Obj#146 (1 bit, RWC-U-, Baja)', '8/2/35', '耚xa0', '耚xa0']
+	['Obj#147 (1 bit, RWC-U-, Baja)', '8/2/36', '耚xa0', '耚xa0']
+	['Obj#148 (1 bit, RWC-U-, Baja)', '8/2/37', '耚xa0', '耚xa0']
+	['Obj#149 (1 bit, RWC-U-, Baja)', '8/2/38', '耚xa0', '耚xa0']
+	['Obj#150 (1 bit, RWC-U-, Baja)', '8/2/39', '耚xa0', '耚xa0']
+	['Obj#151 (1 bit, RWC-U-, Baja)', '8/2/40', '耚xa0', '耚xa0']
+	['Obj#152 (1 bit, RWC-U-, Baja)', '8/2/41', '耚xa0', '耚xa0']
+	['Obj#153 (1 bit, RWC-U-, Baja)', '8/2/42', '耚xa0', '耚xa0']
+	['Obj#154 (1 bit, RWC-U-, Baja)', '8/2/43', '耚xa0', '耚xa0']
+	['Obj#155 (1 bit, RWC-U-, Baja)', '8/2/44', '耚xa0', '耚xa0']
+	['Obj#156 (1 bit, RWC-U-, Baja)', '8/2/45', '耚xa0', '耚xa0']
+	['Obj#157 (1 bit, RWC-U-, Baja)', '8/2/46', '耚xa0', '耚xa0']
+	['Obj#158 (1 bit, RWC-U-, Baja)', '8/2/47', '耚xa0', '耚xa0']
+	['Obj#159 (1 bit, RWC-U-, Baja)', '8/2/48', '耚xa0', '耚xa0']
+	['Obj#160 (1 bit, RWC-U-, Baja)', '8/2/49', '耚xa0', '耚xa0']
 1_1_34.html
 	Direcci贸n Individual :1.1.34
 	N煤mero de Serie :6EB2:372E607B
 	Programa de aplicaci贸n :HDL 2089 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#111 (1 bit, -WC-U-, Baja) :8/0/0
-	Obj#112 (1 bit, -WC-U-, Baja) :8/0/1
-	Obj#113 (1 bit, -WC-U-, Baja) :8/0/2
-	Obj#114 (1 bit, -WC-U-, Baja) :8/0/3
-	Obj#115 (1 bit, -WC-U-, Baja) :8/0/4
-	Obj#116 (1 bit, -WC-U-, Baja) :8/0/5
-	Obj#117 (1 bit, -WC-U-, Baja) :8/0/6
-	Obj#118 (1 bit, -WC-U-, Baja) :8/0/7
-	Obj#119 (1 bit, -WC-U-, Baja) :8/0/8
-	Obj#120 (1 bit, -WC-U-, Baja) :8/0/9
-	Obj#121 (1 bit, -WC-U-, Baja) :8/0/10
-	Obj#122 (1 bit, -WC-U-, Baja) :8/0/11
-	Obj#123 (1 bit, -WC-U-, Baja) :8/0/12
-	Obj#124 (1 bit, -WC-U-, Baja) :8/0/13
-	Obj#125 (1 bit, -WC-U-, Baja) :8/0/14
-	Obj#126 (1 bit, -WC-U-, Baja) :8/0/15
-	Obj#127 (1 bit, -WC-U-, Baja) :8/0/16
-	Obj#128 (1 bit, -WC-U-, Baja) :8/0/17
-	Obj#129 (1 bit, -WC-U-, Baja) :8/0/18
-	Obj#130 (1 bit, -WC-U-, Baja) :8/0/19
-	Obj#131 (1 bit, -WC-U-, Baja) :8/0/20
-	Obj#132 (1 bit, -WC-U-, Baja) :8/0/21
-	Obj#133 (1 bit, -WC-U-, Baja) :8/0/22
-	Obj#134 (1 bit, -WC-U-, Baja) :8/0/23
-	Obj#135 (1 bit, -WC-U-, Baja) :8/0/24
-	Obj#136 (1 bit, -WC-U-, Baja) :8/0/25
-	Obj#137 (1 bit, -WC-U-, Baja) :8/0/26
-	Obj#138 (1 bit, -WC-U-, Baja) :8/0/27
-	Obj#139 (1 bit, -WC-U-, Baja) :8/0/28
-	Obj#140 (1 bit, -WC-U-, Baja) :8/0/29
-	Obj#141 (1 bit, -WC-U-, Baja) :8/0/30
-	Obj#142 (1 bit, -WC-U-, Baja) :8/0/31
-	Obj#143 (1 bit, -WC-U-, Baja) :8/0/32
-	Obj#144 (1 bit, -WC-U-, Baja) :8/0/33
-	Obj#145 (1 bit, -WC-U-, Baja) :8/0/34
-	Obj#146 (1 bit, -WC-U-, Baja) :8/0/35
-	Obj#147 (1 bit, -WC-U-, Baja) :8/0/36
-	Obj#148 (1 bit, -WC-U-, Baja) :8/0/37
-	Obj#149 (1 bit, -WC-U-, Baja) :8/0/38
-	Obj#150 (1 bit, -WC-U-, Baja) :8/0/39
-	Obj#151 (1 bit, -WC-U-, Baja) :8/0/40
-	Obj#152 (1 bit, -WC-U-, Baja) :8/0/41
-	Obj#153 (1 bit, -WC-U-, Baja) :8/0/42
-	Obj#154 (1 bit, -WC-U-, Baja) :8/0/43
-	Obj#155 (1 bit, -WC-U-, Baja) :8/0/44
-	Obj#156 (1 bit, -WC-U-, Baja) :8/0/45
-	Obj#157 (1 bit, -WC-U-, Baja) :8/0/46
-	Obj#158 (1 bit, -WC-U-, Baja) :8/0/47
-	Obj#159 (1 bit, -WC-U-, Baja) :8/0/48
-	Obj#160 (1 bit, -WC-U-, Baja) :8/0/49
+	['Obj#111 (1 bit, -WC-U-, Baja)', '8/0/0', '耚xa0', '耚xa0']
+	['Obj#112 (1 bit, -WC-U-, Baja)', '8/0/1', '耚xa0', '耚xa0']
+	['Obj#113 (1 bit, -WC-U-, Baja)', '8/0/2', '耚xa0', '耚xa0']
+	['Obj#114 (1 bit, -WC-U-, Baja)', '8/0/3', '耚xa0', '耚xa0']
+	['Obj#115 (1 bit, -WC-U-, Baja)', '8/0/4', '耚xa0', '耚xa0']
+	['Obj#116 (1 bit, -WC-U-, Baja)', '8/0/5', '耚xa0', '耚xa0']
+	['Obj#117 (1 bit, -WC-U-, Baja)', '8/0/6', '耚xa0', '耚xa0']
+	['Obj#118 (1 bit, -WC-U-, Baja)', '8/0/7', '耚xa0', '耚xa0']
+	['Obj#119 (1 bit, -WC-U-, Baja)', '8/0/8', '耚xa0', '耚xa0']
+	['Obj#120 (1 bit, -WC-U-, Baja)', '8/0/9', '耚xa0', '耚xa0']
+	['Obj#121 (1 bit, -WC-U-, Baja)', '8/0/10', '耚xa0', '耚xa0']
+	['Obj#122 (1 bit, -WC-U-, Baja)', '8/0/11', '耚xa0', '耚xa0']
+	['Obj#123 (1 bit, -WC-U-, Baja)', '8/0/12', '耚xa0', '耚xa0']
+	['Obj#124 (1 bit, -WC-U-, Baja)', '8/0/13', '耚xa0', '耚xa0']
+	['Obj#125 (1 bit, -WC-U-, Baja)', '8/0/14', '耚xa0', '耚xa0']
+	['Obj#126 (1 bit, -WC-U-, Baja)', '8/0/15', '耚xa0', '耚xa0']
+	['Obj#127 (1 bit, -WC-U-, Baja)', '8/0/16', '耚xa0', '耚xa0']
+	['Obj#128 (1 bit, -WC-U-, Baja)', '8/0/17', '耚xa0', '耚xa0']
+	['Obj#129 (1 bit, -WC-U-, Baja)', '8/0/18', '耚xa0', '耚xa0']
+	['Obj#130 (1 bit, -WC-U-, Baja)', '8/0/19', '耚xa0', '耚xa0']
+	['Obj#131 (1 bit, -WC-U-, Baja)', '8/0/20', '耚xa0', '耚xa0']
+	['Obj#132 (1 bit, -WC-U-, Baja)', '8/0/21', '耚xa0', '耚xa0']
+	['Obj#133 (1 bit, -WC-U-, Baja)', '8/0/22', '耚xa0', '耚xa0']
+	['Obj#134 (1 bit, -WC-U-, Baja)', '8/0/23', '耚xa0', '耚xa0']
+	['Obj#135 (1 bit, -WC-U-, Baja)', '8/0/24', '耚xa0', '耚xa0']
+	['Obj#136 (1 bit, -WC-U-, Baja)', '8/0/25', '耚xa0', '耚xa0']
+	['Obj#137 (1 bit, -WC-U-, Baja)', '8/0/26', '耚xa0', '耚xa0']
+	['Obj#138 (1 bit, -WC-U-, Baja)', '8/0/27', '耚xa0', '耚xa0']
+	['Obj#139 (1 bit, -WC-U-, Baja)', '8/0/28', '耚xa0', '耚xa0']
+	['Obj#140 (1 bit, -WC-U-, Baja)', '8/0/29', '耚xa0', '耚xa0']
+	['Obj#141 (1 bit, -WC-U-, Baja)', '8/0/30', '耚xa0', '耚xa0']
+	['Obj#142 (1 bit, -WC-U-, Baja)', '8/0/31', '耚xa0', '耚xa0']
+	['Obj#143 (1 bit, -WC-U-, Baja)', '8/0/32', '耚xa0', '耚xa0']
+	['Obj#144 (1 bit, -WC-U-, Baja)', '8/0/33', '耚xa0', '耚xa0']
+	['Obj#145 (1 bit, -WC-U-, Baja)', '8/0/34', '耚xa0', '耚xa0']
+	['Obj#146 (1 bit, -WC-U-, Baja)', '8/0/35', '耚xa0', '耚xa0']
+	['Obj#147 (1 bit, -WC-U-, Baja)', '8/0/36', '耚xa0', '耚xa0']
+	['Obj#148 (1 bit, -WC-U-, Baja)', '8/0/37', '耚xa0', '耚xa0']
+	['Obj#149 (1 bit, -WC-U-, Baja)', '8/0/38', '耚xa0', '耚xa0']
+	['Obj#150 (1 bit, -WC-U-, Baja)', '8/0/39', '耚xa0', '耚xa0']
+	['Obj#151 (1 bit, -WC-U-, Baja)', '8/0/40', '耚xa0', '耚xa0']
+	['Obj#152 (1 bit, -WC-U-, Baja)', '8/0/41', '耚xa0', '耚xa0']
+	['Obj#153 (1 bit, -WC-U-, Baja)', '8/0/42', '耚xa0', '耚xa0']
+	['Obj#154 (1 bit, -WC-U-, Baja)', '8/0/43', '耚xa0', '耚xa0']
+	['Obj#155 (1 bit, -WC-U-, Baja)', '8/0/44', '耚xa0', '耚xa0']
+	['Obj#156 (1 bit, -WC-U-, Baja)', '8/0/45', '耚xa0', '耚xa0']
+	['Obj#157 (1 bit, -WC-U-, Baja)', '8/0/46', '耚xa0', '耚xa0']
+	['Obj#158 (1 bit, -WC-U-, Baja)', '8/0/47', '耚xa0', '耚xa0']
+	['Obj#159 (1 bit, -WC-U-, Baja)', '8/0/48', '耚xa0', '耚xa0']
+	['Obj#160 (1 bit, -WC-U-, Baja)', '8/0/49', '耚xa0', '耚xa0']
 1_1_35.html
 	Direcci贸n Individual :1.1.35
 	N煤mero de Serie :6EB2:372E6028
 	Programa de aplicaci贸n :HDL 2089 V1.1
 	Programa de aplicaci贸n :0 0000 V0.0
-	Obj#111 (1 bit, -WC-U-, Baja) :8/0/0
-	Obj#112 (1 bit, -WC-U-, Baja) :8/0/1
-	Obj#113 (1 bit, -WC-U-, Baja) :8/0/2
-	Obj#114 (1 bit, -WC-U-, Baja) :8/0/3
-	Obj#115 (1 bit, -WC-U-, Baja) :8/0/4
-	Obj#116 (1 bit, -WC-U-, Baja) :8/0/5
-	Obj#117 (1 bit, -WC-U-, Baja) :8/0/6
-	Obj#118 (1 bit, -WC-U-, Baja) :8/0/7
-	Obj#119 (1 bit, -WC-U-, Baja) :8/0/8
-	Obj#120 (1 bit, -WC-U-, Baja) :8/0/9
-	Obj#121 (1 bit, -WC-U-, Baja) :8/0/10
-	Obj#122 (1 bit, -WC-U-, Baja) :8/0/11
-	Obj#123 (1 bit, -WC-U-, Baja) :8/0/12
-	Obj#124 (1 bit, -WC-U-, Baja) :8/0/13
-	Obj#125 (1 bit, -WC-U-, Baja) :8/0/14
-	Obj#126 (1 bit, -WC-U-, Baja) :8/0/15
-	Obj#127 (1 bit, -WC-U-, Baja) :8/0/16
-	Obj#128 (1 bit, -WC-U-, Baja) :8/0/17
-	Obj#129 (1 bit, -WC-U-, Baja) :8/0/18
-	Obj#130 (1 bit, -WC-U-, Baja) :8/0/19
-	Obj#131 (1 bit, -WC-U-, Baja) :8/0/20
-	Obj#132 (1 bit, -WC-U-, Baja) :8/0/21
-	Obj#133 (1 bit, -WC-U-, Baja) :8/0/22
-	Obj#134 (1 bit, -WC-U-, Baja) :8/0/23
-	Obj#135 (1 bit, -WC-U-, Baja) :8/0/24
-	Obj#136 (1 bit, -WC-U-, Baja) :8/0/25
-	Obj#137 (1 bit, -WC-U-, Baja) :8/0/26
-	Obj#138 (1 bit, -WC-U-, Baja) :8/0/27
-	Obj#139 (1 bit, -WC-U-, Baja) :8/0/28
-	Obj#140 (1 bit, -WC-U-, Baja) :8/0/29
-	Obj#141 (1 bit, -WC-U-, Baja) :8/0/30
-	Obj#142 (1 bit, -WC-U-, Baja) :8/0/31
-	Obj#143 (1 bit, -WC-U-, Baja) :8/0/32
-	Obj#144 (1 bit, -WC-U-, Baja) :8/0/33
-	Obj#145 (1 bit, -WC-U-, Baja) :8/0/34
-	Obj#146 (1 bit, -WC-U-, Baja) :8/0/35
-	Obj#147 (1 bit, -WC-U-, Baja) :8/0/36
-	Obj#148 (1 bit, -WC-U-, Baja) :8/0/37
-	Obj#149 (1 bit, -WC-U-, Baja) :8/0/38
-	Obj#150 (1 bit, -WC-U-, Baja) :8/0/39
-	Obj#151 (1 bit, -WC-U-, Baja) :8/0/40
-	Obj#152 (1 bit, -WC-U-, Baja) :8/0/41
-	Obj#153 (1 bit, -WC-U-, Baja) :8/0/42
-	Obj#154 (1 bit, -WC-U-, Baja) :8/0/43
-	Obj#155 (1 bit, -WC-U-, Baja) :8/0/44
-	Obj#156 (1 bit, -WC-U-, Baja) :8/0/45
-	Obj#157 (1 bit, -WC-U-, Baja) :8/0/46
-	Obj#158 (1 bit, -WC-U-, Baja) :8/0/47
-	Obj#159 (1 bit, -WC-U-, Baja) :8/0/48
-	Obj#160 (1 bit, -WC-U-, Baja) :8/0/49
+	['Obj#111 (1 bit, -WC-U-, Baja)', '8/0/0', '耚xa0', '耚xa0']
+	['Obj#112 (1 bit, -WC-U-, Baja)', '8/0/1', '耚xa0', '耚xa0']
+	['Obj#113 (1 bit, -WC-U-, Baja)', '8/0/2', '耚xa0', '耚xa0']
+	['Obj#114 (1 bit, -WC-U-, Baja)', '8/0/3', '耚xa0', '耚xa0']
+	['Obj#115 (1 bit, -WC-U-, Baja)', '8/0/4', '耚xa0', '耚xa0']
+	['Obj#116 (1 bit, -WC-U-, Baja)', '8/0/5', '耚xa0', '耚xa0']
+	['Obj#117 (1 bit, -WC-U-, Baja)', '8/0/6', '耚xa0', '耚xa0']
+	['Obj#118 (1 bit, -WC-U-, Baja)', '8/0/7', '耚xa0', '耚xa0']
+	['Obj#119 (1 bit, -WC-U-, Baja)', '8/0/8', '耚xa0', '耚xa0']
+	['Obj#120 (1 bit, -WC-U-, Baja)', '8/0/9', '耚xa0', '耚xa0']
+	['Obj#121 (1 bit, -WC-U-, Baja)', '8/0/10', '耚xa0', '耚xa0']
+	['Obj#122 (1 bit, -WC-U-, Baja)', '8/0/11', '耚xa0', '耚xa0']
+	['Obj#123 (1 bit, -WC-U-, Baja)', '8/0/12', '耚xa0', '耚xa0']
+	['Obj#124 (1 bit, -WC-U-, Baja)', '8/0/13', '耚xa0', '耚xa0']
+	['Obj#125 (1 bit, -WC-U-, Baja)', '8/0/14', '耚xa0', '耚xa0']
+	['Obj#126 (1 bit, -WC-U-, Baja)', '8/0/15', '耚xa0', '耚xa0']
+	['Obj#127 (1 bit, -WC-U-, Baja)', '8/0/16', '耚xa0', '耚xa0']
+	['Obj#128 (1 bit, -WC-U-, Baja)', '8/0/17', '耚xa0', '耚xa0']
+	['Obj#129 (1 bit, -WC-U-, Baja)', '8/0/18', '耚xa0', '耚xa0']
+	['Obj#130 (1 bit, -WC-U-, Baja)', '8/0/19', '耚xa0', '耚xa0']
+	['Obj#131 (1 bit, -WC-U-, Baja)', '8/0/20', '耚xa0', '耚xa0']
+	['Obj#132 (1 bit, -WC-U-, Baja)', '8/0/21', '耚xa0', '耚xa0']
+	['Obj#133 (1 bit, -WC-U-, Baja)', '8/0/22', '耚xa0', '耚xa0']
+	['Obj#134 (1 bit, -WC-U-, Baja)', '8/0/23', '耚xa0', '耚xa0']
+	['Obj#135 (1 bit, -WC-U-, Baja)', '8/0/24', '耚xa0', '耚xa0']
+	['Obj#136 (1 bit, -WC-U-, Baja)', '8/0/25', '耚xa0', '耚xa0']
+	['Obj#137 (1 bit, -WC-U-, Baja)', '8/0/26', '耚xa0', '耚xa0']
+	['Obj#138 (1 bit, -WC-U-, Baja)', '8/0/27', '耚xa0', '耚xa0']
+	['Obj#139 (1 bit, -WC-U-, Baja)', '8/0/28', '耚xa0', '耚xa0']
+	['Obj#140 (1 bit, -WC-U-, Baja)', '8/0/29', '耚xa0', '耚xa0']
+	['Obj#141 (1 bit, -WC-U-, Baja)', '8/0/30', '耚xa0', '耚xa0']
+	['Obj#142 (1 bit, -WC-U-, Baja)', '8/0/31', '耚xa0', '耚xa0']
+	['Obj#143 (1 bit, -WC-U-, Baja)', '8/0/32', '耚xa0', '耚xa0']
+	['Obj#144 (1 bit, -WC-U-, Baja)', '8/0/33', '耚xa0', '耚xa0']
+	['Obj#145 (1 bit, -WC-U-, Baja)', '8/0/34', '耚xa0', '耚xa0']
+	['Obj#146 (1 bit, -WC-U-, Baja)', '8/0/35', '耚xa0', '耚xa0']
+	['Obj#147 (1 bit, -WC-U-, Baja)', '8/0/36', '耚xa0', '耚xa0']
+	['Obj#148 (1 bit, -WC-U-, Baja)', '8/0/37', '耚xa0', '耚xa0']
+	['Obj#149 (1 bit, -WC-U-, Baja)', '8/0/38', '耚xa0', '耚xa0']
+	['Obj#150 (1 bit, -WC-U-, Baja)', '8/0/39', '耚xa0', '耚xa0']
+	['Obj#151 (1 bit, -WC-U-, Baja)', '8/0/40', '耚xa0', '耚xa0']
+	['Obj#152 (1 bit, -WC-U-, Baja)', '8/0/41', '耚xa0', '耚xa0']
+	['Obj#153 (1 bit, -WC-U-, Baja)', '8/0/42', '耚xa0', '耚xa0']
+	['Obj#154 (1 bit, -WC-U-, Baja)', '8/0/43', '耚xa0', '耚xa0']
+	['Obj#155 (1 bit, -WC-U-, Baja)', '8/0/44', '耚xa0', '耚xa0']
+	['Obj#156 (1 bit, -WC-U-, Baja)', '8/0/45', '耚xa0', '耚xa0']
+	['Obj#157 (1 bit, -WC-U-, Baja)', '8/0/46', '耚xa0', '耚xa0']
+	['Obj#158 (1 bit, -WC-U-, Baja)', '8/0/47', '耚xa0', '耚xa0']
+	['Obj#159 (1 bit, -WC-U-, Baja)', '8/0/48', '耚xa0', '耚xa0']
+	['Obj#160 (1 bit, -WC-U-, Baja)', '8/0/49', '耚xa0', '耚xa0']
 ####################################################################
 
 Direcciones principales:

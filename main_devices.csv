@@ -244,3 +244,27 @@ id,name,literal,area,IP,read group,write group,value,command,device,object,comme
 544,-,-,Auditorios,192.168.6.254,2/0/13,,,on/off,1.1.19,Obj#140,output16channel,
 545,-,-,Auditorios,192.168.6.254,2/0/14,,,on/off,1.1.19,Obj#150,output16channel,
 546,-,-,Auditorios,192.168.6.254,2/0/15,23/7/1,,on/off,1.1.19,Obj#160,output16channel,
+599,-,-,Auditorios,192.168.6.254,5/3/16,3/0/0,,on/off,1.1.28,Obj#10,output16ChannelDesconocido,5/3/4 5/4/6 23/7/1
+600,-,-,Auditorios,192.168.6.254,5/3/16,3/0/1,,on/off,1.1.28,Obj#20,output16ChannelDesconocido,5/3/4 5/4/6 23/7/1
+601,-,-,Auditorios,192.168.6.254,5/3/16,3/0/2,,on/off,1.1.28,Obj#30,output16ChannelDesconocido,5/3/4 5/4/6 23/7/1
+602,-,-,Auditorios,192.168.6.254,5/3/16,3/0/1,,on/off,1.1.28,Obj#40,output16ChannelDesconocido,3/0/3 5/3/4 5/4/6 23/7/1
+603,-,-,Auditorios,192.168.6.254,5/3/16,3/0/4,,on/off,1.1.28,Obj#50,output16ChannelDesconocido,5/3/4 5/4/6 23/7/1
+604,-,-,Auditorios,192.168.6.254,5/3/16,3/0/5,,on/off,1.1.28,Obj#60,output16ChannelDesconocido,5/3/4 5/4/6 23/7/1
+605,-,-,Auditorios,192.168.6.254,5/3/17,3/0/6,,on/off,1.1.28,Obj#70,output16ChannelDesconocido,5/3/5 5/4/7 23/7/1
+606,-,-,Auditorios,192.168.6.254,5/3/17,3/0/7,,on/off,1.1.28,Obj#80,output16ChannelDesconocido,5/3/5 5/4/7 23/7/1
+607,-,-,Auditorios,192.168.6.254,5/3/18,3/0/8,,on/off,1.1.28,Obj#90,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+608,-,-,Auditorios,192.168.6.254,5/3/18,3/0/9,,on/off,1.1.28,Obj#100,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+609,-,-,Auditorios,192.168.6.254,5/3/18,3/0/10,,on/off,1.1.28,Obj#110,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+610,-,-,Auditorios,192.168.6.254,5/3/18,3/0/11,,on/off,1.1.28,Obj#120,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+611,-,-,Auditorios,192.168.6.254,5/3/18,3/0/12,,on/off,1.1.28,Obj#130,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+612,-,-,Auditorios,192.168.6.254,5/3/18,3/0/13,,on/off,1.1.28,Obj#140,output16ChannelDesconocido,5/3/6 5/4/8 23/7/1
+613,-,-,Auditorios,192.168.6.254,5/3/18,3/0/14,,on/off,1.1.28,Obj#150,output16ChannelDesconocido,5/3/6 5/4/7 23/7/1
+614,-,-,Auditorios,192.168.6.254,3/0/15,5/4/9,,on/off,1.1.28,Obj#160,output16ChannelDesconocido,23/7/1
+615,-,-,Auditorios,192.168.6.254,3/1/0,5/4/9,,on/off,1.1.29,Obj#10,output8ChannelDesconocido,23/7/1
+616,-,-,Auditorios,192.168.6.254,3/1/1,5/4/9,,on/off,1.1.29,Obj#30,output8ChannelDesconocido,23/7/1
+617,-,-,Auditorios,192.168.6.254,3/1/2,5/4/9,,on/off,1.1.29,Obj#50,output8ChannelDesconocido,23/7/1
+618,-,-,Auditorios,192.168.6.254,3/1/3,5/0/28,,on/off,1.1.29,Obj#70,output8ChannelDesconocido,23/7/1
+619,-,-,Auditorios,192.168.6.254,3/1/4,5/4/8,,on/off,1.1.29,Obj#90,output8ChannelDesconocido,23/7/1
+620,-,-,Auditorios,192.168.6.254,3/1/5,5/4/8,,on/off,1.1.29,Obj#110,output8ChannelDesconocido,23/7/1
+621,-,-,Auditorios,192.168.6.254,3/1/6,5/0/28,,on/off,1.1.29,Obj#130,output8ChannelDesconocido,23/7/1
+622,-,-,Auditorios,192.168.6.254,3/1/7,5/0/28,,on/off,1.1.29,Obj#150,output8ChannelDesconocido,23/7/1
