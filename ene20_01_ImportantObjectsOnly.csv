@@ -1,0 +1,189 @@
+code,label,area,IP,read group,write group,value,status,command,device
+CI-0.3CLED,Luz Led,Sala multiple,192.168.8.254,0/0/1',4/2/2',nan',0,on/off,1.1.1
+CI-0.3B,Recibidor,Sala multiple,192.168.8.254,0/0/3',4/2/1',nan',0,on/off,1.1.1
+CI-0.2A,B. Hombres,Sala multiple,192.168.8.254,0/0/8',3/0/2',nan',0,on/off,1.1.1
+CI-0.1A,C. Control,Sala multiple,192.168.8.254,0/0/9',4/2/0',nan',0,on/off,1.1.1
+CI-0.1B,B. Mujeres,Sala multiple,192.168.8.254,0/0/10',3/0/1',nan',0,on/off,1.1.1
+CI-0.1A,Sala de Control,Sala multiple,192.168.8.254,0/2/0',3/0/0',nan',0,on/off,1.1.5
+CI-0.1A,Sala de Servidor,Sala multiple,192.168.8.254,0/2/1',4/0/0',nan',0,on/off,1.1.5
+CI-0.1B,Pasillo Control,Sala multiple,192.168.8.254,0/2/2',4/0/1',nan',0,on/off,1.1.5
+CI-0.3C,Recibidor,Sala multiple,192.168.8.254,0/2/4',4/2/1',nan',0,on/off,1.1.5
+CI-0.3E,Puertas de Ingreso,Sala multiple,192.168.8.254,0/2/5',4/2/2',nan',0,on/off,1.1.5
+CI-0.10B,Entrada Garaje Interno,Sala multiple,192.168.8.254,2/0/0',4/3/0',nan',0,on/off,1.1.25
+CI-0.10A,Entrada Garaje externo,Sala multiple,192.168.8.254,2/0/1',4/3/0',nan',0,on/off,1.1.25
+CI-0.10C,Portería Garaje,Sala multiple,192.168.8.254,2/0/2',4/3/1',nan',0,on/off,1.1.25
+CI-0.10D,Lamparas Parqueo Norte,Sala multiple,192.168.8.254,2/0/3',4/3/2',nan',0,on/off,1.1.25
+CI-0.10E,Lamparas Pareo Sur,Sala multiple,192.168.8.254,2/0/4',4/3/3',nan',0,on/off,1.1.25
+ILUM. EXT.,Iluminación Exterior,Sala multiple,192.168.8.254,2/0/6',7/0/0',nan',0,on/off,1.1.25
+PUERTA GAR.,?Puerta Garaje a verificar,Sala multiple,192.168.8.254,2/0/7',nan',nan',0,on/off,1.1.25
+PISO EXT.,4/001,Sala multiple,192.168.8.254,2/0/8',7/0/0',nan',0,on/off,1.1.25
+REFLECTORES,Iluminación Exterior,Sala multiple,192.168.8.254,2/0/9',7/0/0',nan',0,on/off,1.1.25
+CIE-0.6A,Exterior convenciones,Sala multiple,192.168.8.254,1/0/0',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6B,Exterior convenciones,Sala multiple,192.168.8.254,1/0/1',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6K,Exterior convenciones,Sala multiple,192.168.8.254,1/0/2',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6E,Exterior convenciones,Sala multiple,192.168.8.254,1/0/3',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6L,Exterior convenciones,Sala multiple,192.168.8.254,1/0/4',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6H,Exterior convenciones,Sala multiple,192.168.8.254,1/0/5',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6I,Exterior convenciones,Sala multiple,192.168.8.254,1/0/6',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6J,Exterior convenciones,Sala multiple,192.168.8.254,1/0/7',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6F,Centro de convenciones,Sala multiple,192.168.8.254,1/0/8',4/4/5',nan',0,on/off,1.1.28
+CIE-0.6C,Exterior convenciones,Sala multiple,192.168.8.254,1/0/9',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6D,Exterior convenciones,Sala multiple,192.168.8.254,1/0/10',4/4/4',nan',0,on/off,1.1.28
+CIE-0.6G,Iluminación Exterior,Sala multiple,192.168.8.254,1/0/11',7/0/0',nan',0,on/off,1.1.28
+CIE-0.7C,Convenciones + Sur,Sala multiple,192.168.8.254,1/1/0',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7G,Convenciones,Sala multiple,192.168.8.254,1/1/1',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7B,Convenciones,Sala multiple,192.168.8.254,1/1/2',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7D,Convenciones,Sala multiple,192.168.8.254,1/1/3',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7E,Convenciones,Sala multiple,192.168.8.254,1/1/4',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7A,Convenciones,Sala multiple,192.168.8.254,1/1/5',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7F,Convenciones,Sala multiple,192.168.8.254,1/1/6',4/4/5',nan',0,on/off,1.1.29
+PUERTA 1,Convenciones,Sala multiple,192.168.8.254,1/1/8',4/4/5',nan',0,on/off,1.1.29
+PUERTA 2,Convenciones,Sala multiple,192.168.8.254,1/1/9',4/4/5',nan',0,on/off,1.1.29
+PUERTA 3,Convenciones,Sala multiple,192.168.8.254,1/1/10',4/4/5',nan',0,on/off,1.1.29
+CIE-0.7M,Convenciones,Sala multiple,192.168.8.254,1/2/0',4/4/5',nan',0,on/off,1.1.30
+CIE-0.7H,Convenciones,Sala multiple,192.168.8.254,1/2/1',4/4/5',nan',0,on/off,1.1.30
+CIE-0.7K,Convenciones,Sala multiple,192.168.8.254,1/2/2',4/4/4',nan',0,on/off,1.1.30
+CIE-0.7I,Convenciones,Sala multiple,192.168.8.254,1/2/3',4/4/5',nan',0,on/off,1.1.30
+CIE-0.7J,Convenciones,Sala multiple,192.168.8.254,1/2/4',4/4/5',nan',0,on/off,1.1.30
+CIE-0.7R,Convenciones,Sala multiple,192.168.8.254,1/2/5',4/4/5',nan',0,on/off,1.1.30
+RESET INCENDIO,Alarma Incendio,Sala multiple,192.168.8.254,1/2/14',nan',nan',0,on/off,1.1.30
+RESET INCENDIO,Alarma incendios VERFICACION,Sala multiple,192.168.8.254,1/2/15',nan',nan',0,on/off,1.1.30
+CIE-0.7S,Convenciones,Sala multiple,192.168.8.254,1/3/0',4/4/5',nan',0,on/off,1.1.31
+CIE-0.7U,Convenciones,Sala multiple,192.168.8.254,1/3/1',4/4/5',nan',0,on/off,1.1.31
+CIE-0.7P,Convenciones,Sala multiple,192.168.8.254,1/3/2',4/4/5',nan',0,on/off,1.1.31
+CIE-0.7N,Convenciones,Sala multiple,192.168.8.254,1/3/3',4/4/5',nan',0,on/off,1.1.31
+S/C,Convenciones,Sala multiple,192.168.8.254,1/3/4',4/4/5',nan',0,on/off,1.1.31
+CIE-0.7T,Convenciones,Sala multiple,192.168.8.254,1/3/5',4/4/5',nan',0,on/off,1.1.31
+CIE-0.7Q,Convenciones,Sala multiple,192.168.8.254,1/3/6',4/4/5',nan',0,on/off,1.1.31
+S/C,Convenciones + Norte,Sala multiple,192.168.8.254,1/3/7',4/4/5',nan',0,on/off,1.1.31
+CI-1.1A,Oficinas,Sala multiple,192.168.8.254,1/3/8',4/4/0',nan',0,on/off,1.1.31
+CI-1.1D,Cabina Internet,Sala multiple,192.168.8.254,1/3/10',4/4/1',nan',0,on/off,1.1.31
+CI-1.1C,Prensa,Sala multiple,192.168.8.254,1/3/11',4/4/2',nan',0,on/off,1.1.31
+CI-3.1A,Sala Cafe 1,Sala vip,192.168.4.214,0/0/1',2/3/0',nan',0,on/off,1.1.1
+CI-3.1B,Sala Cafe 2,Sala vip,192.168.4.214,0/0/2',2/3/1',nan',0,on/off,1.1.1
+CI-2.1A,Luces Exteriores,Sala vip,192.168.4.214,0/0/3',7/0/0',nan',0,on/off,1.1.1
+CI-3.1C,Sala Reuniones,Sala vip,192.168.4.214,0/0/4',2/0/1',nan',0,on/off,1.1.1
+CI-3.1D,Sala Reuniones,Sala vip,192.168.4.214,0/0/5',2/0/1',nan',0,on/off,1.1.1
+CI-3.1E,Sala Reuniones,Sala vip,192.168.4.214,0/0/6',2/0/1',nan',0,on/off,1.1.1
+CI-3.1F,Sala Reuniones,Sala vip,192.168.4.214,0/0/7',2/0/1',nan',0,on/off,1.1.1
+CI-3.1J,Sala Reuniones,Sala vip,192.168.4.214,0/0/8',2/0/1',nan',0,on/off,1.1.1
+CI-3.1K,Sala Reuniones,Sala vip,192.168.4.214,0/0/9',2/0/1',nan',0,on/off,1.1.1
+S/C,"Luz Pared ""Techo""",Sala vip,192.168.4.214,0/0/10',2/1/1',nan',0,on/off,1.1.1
+CI-3.1M,"Luz Pared ""Techo""",Sala vip,192.168.4.214,0/0/11',2/1/1',nan',0,on/off,1.1.1
+CI-0.1B,Pasillos Dimmer,Sala vip,192.168.4.214,1/0/0',2/0/0',nan',0,on/off,1.1.2
+CI-2.1A,Dimmer Lower,Sala vip,192.168.4.214,1/1/0',2/0/2',nan',0,on/off,1.1.2
+CI-B.3,Pasillos Dimmer,Sala vip,192.168.4.214,1/0/1',2/0/0',nan',0,on/off,1.1.2
+CI-B.8,Dimmer Lower,Sala vip,192.168.4.214,1/1/1',2/0/2',nan',0,on/off,1.1.2
+CI-4.1A,Pasillos Dimmer,Sala vip,192.168.4.214,1/0/2',2/0/0',nan',0,on/off,1.1.2
+CI-0.1I,Dimmer Lower,Sala vip,192.168.4.214,1/1/2',2/0/2',nan',0,on/off,1.1.2
+CI-0.1K,Sala Descanso,Sala vip,192.168.4.214,1/0/3',2/1/0',nan',0,on/off,1.1.2
+CI-0.1E,DESCONOCIDO,Sala vip,192.168.4.214,1/1/3',2/1/2',nan',0,on/off,1.1.2
+CI-B.4,Sala Descanso,Sala vip,192.168.4.214,1/0/4',2/1/0',nan',0,on/off,1.1.2
+CI-B.1,DESCONOCIDO,Sala vip,192.168.4.214,1/1/4',2/1/2',nan',0,on/off,1.1.2
+CI-0.1RA,Iluminación piso 0 y 1,Plaza comidas,192.168.2.86,0/0/1',1/0/1',nan',0,on/off,1.1.4
+CI-1.1RB,Iluminación piso 2,Plaza comidas,192.168.2.86,0/0/2',1/0/1',nan',0,on/off,1.1.4
+CI-2.1RC,Iluminación piso 3,Plaza comidas,192.168.2.86,0/0/3',1/0/1',nan',0,on/off,1.1.4
+CI-4.1RE,Iluminación piso 3,Plaza comidas,192.168.2.86,0/0/4',1/0/1',nan',0,on/off,1.1.4
+CI-3.1RD,Iluminación piso 4,Plaza comidas,192.168.2.86,0/1/0',1/0/1',nan',0,on/off,1.1.5
+CI-5.1RF,Iluminación piso 5,Plaza comidas,192.168.2.86,0/1/1',1/0/1',nan',0,on/off,1.1.5
+CI-BÑ,Iluminación baño,Plaza comidas,192.168.2.86,0/1/2',1/0/1',nan',0,on/off,1.1.5
+CI-0.2A,Sala de servidor,Plaza comidas,192.168.2.86,0/1/3',1/0/0',nan',0,on/off,1.1.5
+PUERTA 3,Puerta trasera izquierda,Plaza comidas,192.168.2.86,0/1/9',nan',nan',0,on/off,1.1.5
+PUERTA 4,Puerta Trasera derecha,Plaza comidas,192.168.2.86,0/1/10',nan',nan',0,on/off,1.1.5
+INCENDIOS RESET,Alarma,Plaza comidas,192.168.2.86,0/1/11',nan',nan',0,on/off,1.1.5
+CI-6.1A,Iluminacion techo,Plaza comidas,192.168.2.86,0/2/0',1/0/1',nan',0,on/off,1.1.6
+CI-6.1B,Iluminación techo,Plaza comidas,192.168.2.86,0/2/1',1/0/1',nan',0,on/off,1.1.6
+PUERTA 1,Puerta Delantera Izquierda,Plaza comidas,192.168.2.86,0/3/0',23/7/3',nan',0,on/off,1.1.9
+PUERTA 2,Puerta Delantera Derecha,Plaza comidas,192.168.2.86,0/3/1',23/7/3',nan',0,on/off,1.1.9
+PUERTA 5,Puerta 4to piso derecha,Plaza comidas,192.168.2.86,0/3/2',23/7/3',nan',0,on/off,1.1.9
+PUERTA 6,Puerta 4to piso izquierda,Plaza comidas,192.168.2.86,0/3/3',23/7/3',nan',0,on/off,1.1.9
+CI-B.5,Escenario B,Auditorios,192.168.6.254,0/0/1',5/0/3',nan',0,on/off,1.1.1
+CI-B.6,Escenario B,Auditorios,192.168.6.254,0/0/2',5/0/3',nan',0,on/off,1.1.1
+CI-B.7,Escenario B,Auditorios,192.168.6.254,0/0/3',5/0/3',nan',0,on/off,1.1.1
+CI-A.1,Luz Central A,Auditorios,192.168.6.254,0/0/4',5/0/0',nan',0,on/off,1.1.1
+CI-A.5,Escenario A,Auditorios,192.168.6.254,0/0/5',5/0/1',nan',0,on/off,1.1.1
+CI-A.9,Luz Central A,Auditorios,192.168.6.254,0/0/6',5/0/0',nan',0,on/off,1.1.1
+CI-A.6,Escenario A,Auditorios,192.168.6.254,0/0/7',5/0/1',nan',0,on/off,1.1.1
+CI-A.3,Luz Central A,Auditorios,192.168.6.254,0/0/9',5/0/0',nan',0,on/off,1.1.1
+CI-A.4,Luz Central A,Auditorios,192.168.6.254,0/0/10',5/0/0',nan',0,on/off,1.1.1
+CI-0.1F,Pasillo Auditorio Principal,Auditorios,192.168.6.254,0/0/11',5/3/12',nan',0,on/off,1.1.1
+CI-A.8,Luz Central A,Auditorios,192.168.6.254,0/0/13',5/0/0',nan',0,on/off,1.1.1
+CI-A.7,Escenario A,Auditorios,192.168.6.254,0/0/14',5/0/1',nan',0,on/off,1.1.1
+CI-A.2,Luz Central A,Auditorios,192.168.6.254,0/0/15',5/0/0',nan',0,on/off,1.1.1
+CI-0.1H,Ingreso Auditorio,Auditorios,192.168.6.254,0/2/0',5/0/6',nan',0,on/off,1.1.4
+CI-0.1G,Luz subtecho entrada,Auditorios,192.168.6.254,0/2/1',5/3/2',nan',0,on/off,1.1.4
+CI-0.1C,--,Auditorios,192.168.6.254,0/2/2',23/7/1',nan',0,on/off,1.1.4
+RESET INC.,Alarma incendios,Auditorios,192.168.6.254,0/2/3',nan',nan',0,on/off,1.1.4
+CI-0.1D,DESCONOCIDO,Auditorios,192.168.6.254,0/2/5',23/7/1',nan',0,on/off,1.1.4
+CI-0.1D,Laterales,Auditorios,192.168.6.254,0/2/6',5/0/4',nan',0,on/off,1.1.4
+RESET INC.,Alarma incendios VERFICACION,Auditorios,192.168.6.254,0/2/7',nan',nan',0,on/off,1.1.4
+CI-0.4A,Lez exterior zona sur,Auditorios,192.168.6.254,1/0/0',5/0/19',nan',0,on/off,1.1.10
+CI-0.4B,Lez exterior zona sur,Auditorios,192.168.6.254,1/0/1',5/0/19',nan',0,on/off,1.1.10
+CI-0.4C,Lez exterior zona sur,Auditorios,192.168.6.254,1/0/2',5/0/19',nan',0,on/off,1.1.10
+CI-0.4D,Lez exterior zona sur,Auditorios,192.168.6.254,1/0/3',5/0/19',nan',0,on/off,1.1.10
+Puerta S/C,Puerta Escalera Disc.,Auditorios,192.168.6.254,1/0/4',23/7/3',nan',0,on/off,1.1.10
+Puerta S/C,Puerta INGR. 2,Auditorios,192.168.6.254,1/0/5',23/7/3',nan',0,on/off,1.1.10
+Puerta S/C,Puerta INGR. 1,Auditorios,192.168.6.254,1/0/6',23/7/3',nan',0,on/off,1.1.10
+RAMPA SUD PA,Iluminación Rampa Sur,Auditorios,192.168.6.254,1/0/7',nan',nan',0,on/off,1.1.10
+-,Luz exterior norte,Auditorios,192.168.6.254,2/0/0',5/1/3',nan',0,on/off,1.1.19
+-,Exterior,Auditorios,192.168.6.254,2/0/1',5/1/1',nan',0,on/off,1.1.19
+-,Luz exterior norte,Auditorios,192.168.6.254,2/0/2',5/1/3',nan',0,on/off,1.1.19
+-,Luz exterior norte,Auditorios,192.168.6.254,2/0/3',5/1/3',nan',0,on/off,1.1.19
+-,Luz exterior norte,Auditorios,192.168.6.254,2/0/4',5/1/3',nan',0,on/off,1.1.19
+-,Cafetería,Auditorios,192.168.6.254,2/0/5',5/1/0',nan',0,on/off,1.1.19
+-,Recibidor,Auditorios,192.168.6.254,2/0/6',5/1/2',nan',0,on/off,1.1.19
+-,Luz exterior norte,Auditorios,192.168.6.254,2/0/7',5/1/3',nan',0,on/off,1.1.19
+Puerta S/C,Puerta Escalera,Auditorios,192.168.6.254,2/0/8',23/7/3',nan',0,on/off,1.1.19
+Puerta S/C,Puerta 2 Oficina,Auditorios,192.168.6.254,2/0/9',23/7/3',nan',0,on/off,1.1.19
+Puerta S/C,Puerta 1 Oficina,Auditorios,192.168.6.254,2/0/10',23/7/3',nan',0,on/off,1.1.19
+Puerta S/C,Puerta 3 Oficina,Auditorios,192.168.6.254,2/0/11',23/7/3',nan',0,on/off,1.1.19
+-,DESCONOCIDO,Auditorios,192.168.6.254,2/0/12',4/2/3',nan',0,on/off,1.1.19
+-,B. Norte,Auditorios,192.168.6.254,3/0/0',5/3/4',nan',0,on/off,1.1.28
+-,B. Norte,Auditorios,192.168.6.254,3/0/1',5/3/4',nan',0,on/off,1.1.28
+-,B. Norte,Auditorios,192.168.6.254,3/0/2',5/3/4',nan',0,on/off,1.1.28
+-,B. Norte,Auditorios,192.168.6.254,3/0/1',5/3/4',nan',0,on/off,1.1.28
+-,B. Norte,Auditorios,192.168.6.254,3/0/4',5/3/4',nan',0,on/off,1.1.28
+-,B. Norte,Auditorios,192.168.6.254,3/0/5',5/3/4',nan',0,on/off,1.1.28
+-,B. Centro,Auditorios,192.168.6.254,3/0/6',5/3/5',nan',0,on/off,1.1.28
+-,B. Centro,Auditorios,192.168.6.254,3/0/7',5/3/5',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/8',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/9',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/10',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/11',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/12',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/13',5/3/6',nan',0,on/off,1.1.28
+-,B. Sud,Auditorios,192.168.6.254,3/0/14',5/3/6',nan',0,on/off,1.1.28
+-,Escenario Principal,Auditorios,192.168.6.254,3/0/15',5/4/9',nan',0,on/off,1.1.28
+-,Escenario Principal,Auditorios,192.168.6.254,3/1/0',5/4/9',nan',0,on/off,1.1.29
+-,Escenario Principal,Auditorios,192.168.6.254,3/1/1',5/4/9',nan',0,on/off,1.1.29
+-,Escenario Principal,Auditorios,192.168.6.254,3/1/2',5/4/9',nan',0,on/off,1.1.29
+-,Mezanine CONFIRMAR,Auditorios,192.168.6.254,3/1/3',5/0/28',nan',0,on/off,1.1.29
+-,DESCONOCIDO,Auditorios,192.168.6.254,3/1/4',5/4/8',nan',0,on/off,1.1.29
+-,DESCONOCIDO,Auditorios,192.168.6.254,3/1/5',5/4/8',nan',0,on/off,1.1.29
+-,Mezanine CONFIRMAR,Auditorios,192.168.6.254,3/1/6',5/0/28',nan',0,on/off,1.1.29
+-,Mezanine CONFIRMAR,Auditorios,192.168.6.254,3/1/7',5/0/28',nan',0,on/off,1.1.29
+-,Auditorio A / Luz Central,Auditorios,192.168.6.254,5/0/0',5/0/0',nan',0,on/off,nan'
+-,Auditorio A / Escenario,Auditorios,192.168.6.254,5/0/1',5/0/1',nan',0,on/off,nan'
+-,Auditorio B / Luz Central,Auditorios,192.168.6.254,5/0/2',5/0/2',nan',0,on/off,nan'
+-,Auditorio B / Escenario,Auditorios,192.168.6.254,5/0/3',5/0/3',nan',0,on/off,nan'
+-,Laterales,Auditorios,192.168.6.254,5/0/4',5/0/4',nan',0,on/off,nan'
+-,Pasillo,Auditorios,192.168.6.254,5/0/5',5/0/5',nan',0,on/off,nan'
+-,Rampa N.,Auditorios,192.168.6.254,5/0/7',5/0/7',nan',0,on/off,nan'
+,Pasillo Baños,Auditorios,192.168.6.254,5/2/0',5/2/0',,0,on/off,
+,Pasillo Gradas,Auditorios,192.168.6.254,5/2/1',5/2/1',,0,on/off,
+,Ingreso Auditorio Principal,Auditorios,192.168.6.254,5/3/13',5/3/13',,0,on/off,
+,Gradas P3,Auditorios,192.168.6.254,5/3/14',5/3/14',,0,on/off,
+,Escenario Último Piso,Auditorios,192.168.6.254,5/3/19',5/3/19',,0,on/off,
+-,Ingreso Sur,Auditorios,192.168.6.254,5/5/0',5/5/0',nan',0,on/off,
+-,Ingreso Norte,Auditorios,192.168.6.254,5/5/1',5/5/1',nan',0,on/off,
+-,Ingreso P4 Techo,Auditorios,192.168.6.254,5/5/2',5/5/2',nan',0,on/off,
+-,Pasillo Mezanine,Auditorios,192.168.6.254,5/5/3',5/5/3',nan',0,on/off,
+,Pasillo Control salón Principal,Auditorios,192.168.6.254,5/4/3',5/4/3',,0,on/off,
+,Sala de Control Principal,Auditorios,192.168.6.254,5/4/2',5/4/2',,0,on/off,
+-,Puerta Oficinas 1,Auditorios,192.168.6.254,4/1/0',nan',nan',0,read,1.1.20
+-,Puerta Oficinas 2,Auditorios,192.168.6.254,4/1/1',nan',nan',0,read,1.1.20
+-,Puerta Oficinas 3,Auditorios,192.168.6.254,4/1/2',nan',nan',0,read,1.1.20
+-,Puerta Oficinas 4,Auditorios,192.168.6.254,4/1/3',nan',nan',0,read,1.1.20
+-,Ingreso Auditorio 1,Auditorios,192.168.6.254,4/0/0',nan',nan',0,read,1.1.11
+-,Ingreso Auditorio 2,Auditorios,192.168.6.254,4/0/1',nan',nan',0,read,1.1.11
+-,Ingreso Auditorio 3,Auditorios,192.168.6.254,4/0/2',nan',nan',0,read,1.1.11
